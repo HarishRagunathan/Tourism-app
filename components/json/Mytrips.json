@@ -1,0 +1,197 @@
+{
+    "destinations":[
+        {
+            "id": 38,
+            "name": "Thanjavur, Tamil Nadu",
+            "description": "Thanjavur is a historical city known for its grand temples, classical art forms, and rich heritage. The Brihadeeswarar Temple, a UNESCO World Heritage site, is one of the most significant landmarks in the city.",
+            "image": "https://ursji.wordpress.com/wp-content/uploads/2018/01/adsc_8484.jpg?w=1024",
+            "nearby_places": {
+              "Day1": {
+                "Morning": ["Brihadeeswarar Temple"],
+                "AfterNoon": ["Thanjavur Royal Palace"],
+                "Evening": ["Sivaganga Park"]
+              },
+              "Day2": {
+                "Morning": ["Gangaikonda Cholapuram"],
+                "AfterNoon": ["Thanjavur Art Gallery"],
+                "Evening": ["Schwartz Church"]
+              },
+              "Day3": {
+                "Morning": ["Punnai Nallur Mariamman Temple"],
+                "AfterNoon": ["Saraswathi Mahal Library"],
+                "Evening": ["Shopping for Thanjavur Paintings"]
+              },
+              "Day4": {
+                "Morning": ["Airavatesvara Temple (Darasuram)"],
+                "AfterNoon": ["Kumbakonam Temples Tour"],
+                "Evening": ["Visit a Silk Weaving Workshop"]
+              },
+              "Day5": {
+                "Morning": ["Thirumanancheri Temple"],
+                "AfterNoon": ["Pillayarpatti Temple"],
+                "Evening": ["Explore Local Markets"]
+              }
+            },
+            "hotels": [
+              "Svatma Thanjavur",
+              "Ideal River View Resort",
+              "Hotel Sangam"
+            ],
+            "restaurants": [
+              "Hotel Gnanam",
+              "Vasantha Bhavan",
+              "Sree Ariya Bhavan"
+            ],
+            "amount_in_rupees": {
+              "Day1": "10000",
+              "Day2": "9000",
+              "Day3": "9500",
+              "Day4": "8500",
+              "Day5": "9000"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Taj Mahal, Agra, India",
+            "description": "The Taj Mahal is an ivory-white marble mausoleum and a UNESCO World Heritage Site, renowned for its stunning architecture and romantic history.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMq0Utl9O-TUtLMs4xn6n1q0jyqAYN0YB3w&s",
+            "nearby_places": {
+              "Day1": {
+                "Morning": ["Taj Mahal (3 hours)"],
+                "AfterNoon": ["Agra Fort (2 hours)"],
+                "Evening": ["Mehtab Bagh for Sunset View (2 hours)"]
+              },
+              "Day2": {
+                "Morning": ["Fatehpur Sikri (3 hours)"],
+                "AfterNoon": ["Itmad-ud-Daula's Tomb (2 hours)"],
+                "Evening": ["Explore Local Markets (1.5 hours)"]
+              },
+              "Day3": {
+                "Morning": ["Akbar's Tomb (2 hours)"],
+                "AfterNoon": ["Mariam-uz-Zamani Palace (1.5 hours)"],
+                "Evening": ["Dinner at Local Restaurant (1.5 hours)"]
+              },
+              "Day4": {
+                "Morning": ["Visit Local Handicraft Workshops (2 hours)"],
+                "AfterNoon": ["Shopping for Souvenirs (2 hours)"],
+                "Evening": ["Enjoy Traditional Mughlai Cuisine (1.5 hours)"]
+              },
+              "Day5": {
+                "Morning": ["Sikandra Fort (2 hours)"],
+                "AfterNoon": ["Explore Garden of Sorrow (1.5 hours)"],
+                "Evening": ["Relax at a Café (1.5 hours)"]
+              }
+            },
+            "hotels": ["The Oberoi Amarvilas", "ITC Mughal", "Hotel Taj Resorts"],
+            "restaurants": ["Pind Balluchi", "The Gateway Hotel", "Joney's Place"],
+            "amount_in_rupees": {
+              "Day1": "4500",
+              "Day2": "3500",
+              "Day3": "3000",
+              "Day4": "2500",
+              "Day5": "2000"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Sydney, Australia",
+            "description": "Renowned for its Sydney Opera House, beautiful harbor, and stunning beaches.",
+            "image": "https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "nearby_places": {
+              "Day1": {
+                "Morning": ["Sydney Opera House"],
+                "AfterNoon": ["Royal Botanic Garden"],
+                "Evening": ["Darling Harbour"]
+              },
+              "Day2": {
+                "Morning": ["Bondi Beach"],
+                "AfterNoon": ["Coogee Beach"],
+                "Evening": ["Cliff Walk"]
+              },
+              "Day3": {
+                "Morning": ["Taronga Zoo"],
+                "AfterNoon": ["The Rocks"],
+                "Evening": ["Dinner Cruise on the Harbour"]
+              },
+              "Day4": {
+                "Morning": ["Manly Beach"],
+                "AfterNoon": ["Sydney Tower Eye"],
+                "Evening": ["Queen Victoria Building"]
+              },
+              "Day5": {
+                "Morning": ["Art Gallery of New South Wales"],
+                "AfterNoon": ["Chinatown"],
+                "Evening": ["Cockle Bay Wharf"]
+              }
+            },
+            "hotels": [
+              "Shangri-La Hotel Sydney",
+              "The Fullerton Hotel Sydney",
+              "Park Hyatt Sydney"
+            ],
+            "restaurants": [
+              "Quay",
+              "Rockpool Bar & Grill",
+              "Mr. Wong"
+            ],
+            "amount_in_rupees": {
+              "Day1": "11000",
+              "Day2": "9000",
+              "Day3": "13000",
+              "Day4": "12000",
+              "Day5": "11000"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Murudeshwar, Karnataka",
+            "description": "Murudeshwar is a coastal town in Karnataka, famous for its majestic Shiva statue and serene beaches. It’s a perfect blend of religious and natural attractions.",
+            "image": "https://i.pinimg.com/originals/05/89/28/058928b847eaeafd3dba258a66491ed2.jpg",
+            "nearby_places": {
+              "Day1": {
+                "Morning": ["Murudeshwar Temple"],
+                "AfterNoon": ["Murudeshwar Beach"],
+                "Evening": ["Statue of Lord Shiva"]
+              },
+              "Day2": {
+                "Morning": ["Netrani Island Scuba Diving"],
+                "AfterNoon": ["Apsarakonda Falls"],
+                "Evening": ["Sunset at Murudeshwar Beach"]
+              },
+              "Day3": {
+                "Morning": ["Idagunji Ganapathi Temple"],
+                "AfterNoon": ["Bhatkal Fort"],
+                "Evening": ["Drive through Western Ghats"]
+              },
+              "Day4": {
+                "Morning": ["Jog Falls"],
+                "AfterNoon": ["Sigandur Chowdeshwari Temple"],
+                "Evening": ["Relax at Kundapura Beach"]
+              },
+              "Day5": {
+                "Morning": ["Kodachadri Trek"],
+                "AfterNoon": ["Kollur Mookambika Temple"],
+                "Evening": ["Back to Murudeshwar for Dinner by the Beach"]
+              }
+            },
+            "hotels": [
+              "RNS Residency",
+              "Hotel Naveen Murudeshwar",
+              "Dhenu Atithya"
+            ],
+            "restaurants": [
+              "Naveen Beach Restaurant",
+              "Sea Lounge Restaurant",
+              "Mavalli Tiffin Room (MTR)"
+            ],
+            "amount_in_rupees": {
+              "Day1": "12000",
+              "Day2": "15000",
+              "Day3": "13000",
+              "Day4": "16000",
+              "Day5": "14000"
+            }
+          }
+          
+    ]
+}

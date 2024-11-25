@@ -1,0 +1,1764 @@
+{
+  "destinations": [
+    {
+  "id": 1,
+  "name": "Taj Mahal, Agra, India",
+  "description": "The Taj Mahal is an ivory-white marble mausoleum and a UNESCO World Heritage Site, renowned for its stunning architecture and romantic history.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMq0Utl9O-TUtLMs4xn6n1q0jyqAYN0YB3w&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Taj Mahal (3 hours)"],
+      "AfterNoon": ["Agra Fort (2 hours)"],
+      "Evening": ["Mehtab Bagh for Sunset View (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Fatehpur Sikri (3 hours)"],
+      "AfterNoon": ["Itmad-ud-Daula's Tomb (2 hours)"],
+      "Evening": ["Explore Local Markets (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Akbar's Tomb (2 hours)"],
+      "AfterNoon": ["Mariam-uz-Zamani Palace (1.5 hours)"],
+      "Evening": ["Dinner at Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Local Handicraft Workshops (2 hours)"],
+      "AfterNoon": ["Shopping for Souvenirs (2 hours)"],
+      "Evening": ["Enjoy Traditional Mughlai Cuisine (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Sikandra Fort (2 hours)"],
+      "AfterNoon": ["Explore Garden of Sorrow (1.5 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    }
+  },
+  "hotels": ["The Oberoi Amarvilas", "ITC Mughal", "Hotel Taj Resorts"],
+  "restaurants": ["Pind Balluchi", "The Gateway Hotel", "Joney's Place"],
+  "amount_in_rupees": {
+    "Day1": "4500",
+    "Day2": "3500",
+    "Day3": "3000",
+    "Day4": "2500",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 2,
+  "name": "Varanasi, Uttar Pradesh, India",
+  "description": "Varanasi, one of the oldest living cities in the world, is famous for its ghats along the Ganges River and rich spiritual heritage.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbbeAfO9eJmSLfZfQ5yW4cIjyTvRfiK8UGg&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Ganga Aarti at Dashashwamedh Ghat (2 hours)"],
+      "AfterNoon": ["Sarnath (2 hours)"],
+      "Evening": ["Explore Local Markets (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Boat Ride on Ganges (2 hours)"],
+      "AfterNoon": ["Kashi Vishwanath Temple (1.5 hours)"],
+      "Evening": ["Local Cuisine Dinner (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Ramnagar Fort (2 hours)"],
+      "AfterNoon": ["Bharat Kala Bhavan Museum (2 hours)"],
+      "Evening": ["Walk along the Ghats (2 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Manikarnika Ghat Visit (1.5 hours)"],
+      "AfterNoon": ["Visit Local Weaver Workshops (2 hours)"],
+      "Evening": ["Cultural Show (2 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Tulsi Manas Temple (1.5 hours)"],
+      "AfterNoon": ["Explore Assi Ghat (1.5 hours)"],
+      "Evening": ["Relax at Café (1.5 hours)"]
+    }
+  },
+  "hotels": ["Taj Ganges", "BrijRama Palace", "Hotel Surya"],
+  "restaurants": ["Kashi Chat Bhandar", "Dina Nath Bhandar", "Baati Chokha"],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "2500",
+    "Day3": "2000",
+    "Day4": "1500",
+    "Day5": "1200"
+  }
+},
+{
+  "id": 3,
+  "name": "Golden Temple, Amritsar, India",
+  "description": "The Golden Temple is a spiritual and cultural landmark known for its stunning architecture and the community kitchen that serves free meals to thousands.",
+  "image": "https://m.media-amazon.com/images/I/715Sr0EKR5L._AC_UF1000,1000_QL80_.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Golden Temple (3 hours)"],
+      "AfterNoon": ["Jallianwala Bagh (1.5 hours)"],
+      "Evening": ["Wagah Border Ceremony (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Durgiana Temple (2 hours)"],
+      "AfterNoon": ["Partition Museum (1.5 hours)"],
+      "Evening": ["Explore Local Markets (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Maharaja Ranjit Singh Museum (2 hours)"],
+      "AfterNoon": ["Gobindgarh Fort (2 hours)"],
+      "Evening": ["Enjoy Local Punjabi Cuisine (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Attari Border (3 hours)"],
+      "AfterNoon": ["Explore Rural Punjab (2 hours)"],
+      "Evening": ["Relax at Sadda Pind (2 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Tarn Taran Sahib (2 hours)"],
+      "AfterNoon": ["Kaiser Bagh Palace (2 hours)"],
+      "Evening": ["Shopping at Hall Bazaar (2 hours)"]
+    }
+  },
+  "hotels": ["Hyatt Regency Amritsar", "Ramada Amritsar", "Hotel Ritz Plaza"],
+  "restaurants": ["Kesar Da Dhaba", "Bharawan Da Dhaba", "Crystal Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "5000",
+    "Day2": "4500",
+    "Day3": "5500",
+    "Day4": "6000",
+    "Day5": "4000"
+  }
+},
+{
+  "id": 4,
+  "name": "Leh-Ladakh, Jammu & Kashmir, India",
+  "description": "Leh-Ladakh is known for its breathtaking landscapes, Buddhist monasteries, and adventure activities.",
+  "image": "https://www.felixferiatravel.com/images/1725448625leh-ladakhf-1.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Shanti Stupa (2 hours)"],
+      "AfterNoon": ["Leh Palace (1.5 hours)"],
+      "Evening": ["Local Market (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Pangong Lake (5 hours)"],
+      "AfterNoon": ["Explore Surrounding Areas (2 hours)"],
+      "Evening": ["Return to Leh (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Nubra Valley (6 hours)"],
+      "AfterNoon": ["Visit Diskit Monastery (2 hours)"],
+      "Evening": ["Explore Local Culture (2 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Khardung La Pass (4 hours)"],
+      "AfterNoon": ["Visit Hunder Sand Dunes (2 hours)"],
+      "Evening": ["Relax at Camp (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Thiksey Monastery (3 hours)"],
+      "AfterNoon": ["Explore Local Villages (2 hours)"],
+      "Evening": ["Enjoy Local Cuisine (1.5 hours)"]
+    }
+  },
+  "hotels": ["The Grand Dragon", "Hotel Ladakh Greens", "Hotel Royal Castle"],
+  "restaurants": ["The Tibetan Kitchen", "Chamba Garden", "Nimoo Spring"],
+  "amount_in_rupees": {
+    "Day1": "4500",
+    "Day2": "7000",
+    "Day3": "8000",
+    "Day4": "6000",
+    "Day5": "5000"
+  }
+},
+{
+  "id": 5,
+  "name": "Dal Lake, Srinagar, India",
+  "description": "Dal Lake is famous for its stunning houseboats and shikara rides, surrounded by the majestic Himalayan mountains.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdG1xC4lOkcZdjw-Krid-rNAnrxELOUT1jg&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Shikara Ride on Dal Lake (2 hours)"],
+      "AfterNoon": ["Nehru Garden (1.5 hours)"],
+      "Evening": ["Explore Local Handicrafts (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Mughal Gardens (3 hours)"],
+      "AfterNoon": ["Visit Hazratbal Shrine (1.5 hours)"],
+      "Evening": ["Enjoy Local Cuisine (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Pari Mahal (2 hours)"],
+      "AfterNoon": ["Explore Old City (2 hours)"],
+      "Evening": ["Dinner at Houseboat (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Tulip Garden (if in season) (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Relax by the Lake (2 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Shankaracharya Temple (2 hours)"],
+      "AfterNoon": ["Explore Sonmarg (3 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    }
+  },
+  "hotels": ["Houseboat New Jacquline", "Hotel Grand Mumtaz", "Hotel Hilltop"],
+  "restaurants": ["Ahdoos", "Mughal Darbar", "The Chinar"],
+  "amount_in_rupees": {
+    "Day1": "2500",
+    "Day2": "3000",
+    "Day3": "2000",
+    "Day4": "1500",
+    "Day5": "4000"
+  }
+},
+{
+  "id": 6,
+  "name": "Jaipur, Rajasthan, India",
+  "description": "Jaipur, also known as the Pink City, is famous for its historic forts, palaces, and vibrant bazaars.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ieTRj-SKTS3lGReyK8eF9ZQZM6Ym9Meu6g&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Amber Fort (3 hours)"],
+      "AfterNoon": ["Jaipur City Palace (2 hours)"],
+      "Evening": ["Hawa Mahal (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Jantar Mantar (2 hours)"],
+      "AfterNoon": ["Nahargarh Fort (2 hours)"],
+      "Evening": ["Explore Local Bazaars (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Albert Hall Museum (2 hours)"],
+      "AfterNoon": ["Birla Temple (1.5 hours)"],
+      "Evening": ["Dinner at a Traditional Rajasthani Restaurant (2 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Chokhi Dhani (4 hours)"],
+      "AfterNoon": ["Explore Local Artisans (2 hours)"],
+      "Evening": ["Relax at Café (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Gaitor Ki Chhatriyan (2 hours)"],
+      "AfterNoon": ["Explore Sisodia Rani Palace (1.5 hours)"],
+      "Evening": ["Enjoy Local Cuisine (1.5 hours)"]
+    }
+  },
+  "hotels": ["Rambagh Palace", "Samode Haveli", "Hotel Pearl Palace"],
+  "restaurants": ["Chokhi Dhani", "Laxmi Misthan Bhandar", "Spice Court"],
+  "amount_in_rupees": {
+    "Day1": "5000",
+    "Day2": "4000",
+    "Day3": "3000",
+    "Day4": "6000",
+    "Day5": "2500"
+  }
+},
+{
+  "id": 7,
+  "name": "Jaisalmer, Rajasthan, India",
+  "description": "Jaisalmer, known as the Golden City, is famous for its stunning sandstone architecture and desert landscapes.",
+  "image": "https://www.jaisalkot.com/wp-content/uploads/2018/02/155.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Jaisalmer Fort (3 hours)"],
+      "AfterNoon": ["Patwon Ki Haveli (2 hours)"],
+      "Evening": ["Local Market (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Sam Sand Dunes (4 hours)"],
+      "AfterNoon": ["Camel Safari (2 hours)"],
+      "Evening": ["Cultural Evening at Desert Camp (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Gadsisar Lake (2 hours)"],
+      "AfterNoon": ["Visit Kuldhara Village (2 hours)"],
+      "Evening": ["Explore Local Cuisine (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Nathmal Ki Haveli (1.5 hours)"],
+      "AfterNoon": ["Desert National Park (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Jain Temples (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Dinner at a Rooftop Restaurant (1.5 hours)"]
+    }
+  },
+  "hotels": ["Suryagarh Jaisalmer", "Hotel Rawal Kot", "Jaisalmer Marriott Resort"],
+  "restaurants": ["The Trio", "Spice Route", "Free Tibet"],
+  "amount_in_rupees": {
+    "Day1": "3500",
+    "Day2": "8000",
+    "Day3": "3000",
+    "Day4": "2000",
+    "Day5": "1500"
+  }
+},
+{
+  "id": 8,
+  "name": "Udaipur, Rajasthan, India",
+  "description": "Udaipur, known as the City of Lakes, is famous for its palaces, lakes, and romantic boat rides.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBdkB1C4wXsPWar_Jh9gtlEuEB_z0zsBWXg&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["City Palace (3 hours)"],
+      "AfterNoon": ["Jagdish Temple (1.5 hours)"],
+      "Evening": ["Boat Ride on Lake Pichola (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Saheliyon-ki-Bari (2 hours)"],
+      "AfterNoon": ["Fateh Sagar Lake (2 hours)"],
+      "Evening": ["Visit Sajjangarh Palace (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Jag Mandir (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Lakeside Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Eklingji Temple (2 hours)"],
+      "AfterNoon": ["Explore Kumbhalgarh Fort (4 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Haldighati (2 hours)"],
+      "AfterNoon": ["Explore Ranakpur Temple (3 hours)"],
+      "Evening": ["Dinner at Local Restaurant (1.5 hours)"]
+    }
+  },
+  "hotels": ["Taj Lake Palace", "The Leela Palace", "Hotel Udai Kothi"],
+  "restaurants": ["Ambrai", "Kankarwa Haveli", "Jhumar Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "4500",
+    "Day2": "4000",
+    "Day3": "2500",
+    "Day4": "6000",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 9,
+  "name": "Rishikesh, Uttarakhand, India",
+  "description": "Rishikesh is known as the Yoga Capital of the World and is famous for its spiritual retreats and adventure activities like river rafting.",
+  "image": "https://rishikeshdaytour.com/blog/wp-content/uploads/2019/03/Rishikesh-Uttarakhand-India.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Ganga Aarti at Triveni Ghat (1.5 hours)"],
+      "AfterNoon": ["Visit Parmarth Niketan Ashram (2 hours)"],
+      "Evening": ["Explore Local Markets (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["River Rafting on Ganges (3 hours)"],
+      "AfterNoon": ["Visit Beatles Ashram (2 hours)"],
+      "Evening": ["Dinner at a Local Café (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Laxman Jhula (1.5 hours)"],
+      "AfterNoon": ["Explore Neer Garh Waterfall (2 hours)"],
+      "Evening": ["Yoga Session (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Kunjapuri Temple (2 hours)"],
+      "AfterNoon": ["Explore Rajaji National Park (4 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Ram Jhula (1.5 hours)"],
+      "AfterNoon": ["Explore Local Ashrams (2 hours)"],
+      "Evening": ["Dinner by the Ganges (1.5 hours)"]
+    }
+  },
+  "hotels": ["Aloha on the Ganges", "Hotel Ganga Kinare", "Rishikesh River Rafting Resort"],
+  "restaurants": ["The Sitting Elephant", "Little Buddha Café", "The 60's Café"],
+  "amount_in_rupees": {
+    "Day1": "1500",
+    "Day2": "4000",
+    "Day3": "2000",
+    "Day4": "2500",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 10,
+  "name": "Jim Corbett National Park, Uttarakhand, India",
+  "description": "Jim Corbett National Park is India's oldest national park, renowned for its diverse flora and fauna, including the Bengal tiger.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gsch5J6sh6doihaYnBdvTJvt1iNHqA7lfw&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Jeep Safari (3 hours)"],
+      "AfterNoon": ["Visit Dhikala (3 hours)"],
+      "Evening": ["Explore Bijrani Zone (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Nature Walk (2 hours)"],
+      "AfterNoon": ["Bird Watching (2 hours)"],
+      "Evening": ["Campfire at Resort (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Corbett Museum (2 hours)"],
+      "AfterNoon": ["Explore Jhirna Zone (3 hours)"],
+      "Evening": ["Dinner at Resort (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Elephant Safari (2 hours)"],
+      "AfterNoon": ["Explore the Eco Garden (2 hours)"],
+      "Evening": ["Relax by the Campfire (2 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Sitabani Temple (2 hours)"],
+      "AfterNoon": ["Explore Nature Trails (3 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Taj Corbett Resort & Spa", "The Corbett Hideaway", "Corbett River Side Resort"],
+  "restaurants": ["The Grill House", "Sundowner", "The Riverside Café"],
+  "amount_in_rupees": {
+    "Day1": "6000",
+    "Day2": "2500",
+    "Day3": "2000",
+    "Day4": "3000",
+    "Day5": "3500"
+  }
+},
+{
+  "id": 11,
+  "name": "Khajuraho, Madhya Pradesh, India",
+  "description": "Khajuraho is famous for its stunning temples adorned with intricate sculptures and carvings depicting various aspects of life.",
+  "image": "https://i.ytimg.com/vi/ZnGidCFUB3k/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCS_43_fSb9dNHbQSMl5YnoEah4IQ",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit Western Group of Temples (3 hours)"],
+      "AfterNoon": ["Explore Kandariya Mahadev Temple (1.5 hours)"],
+      "Evening": ["Dinner at Local Restaurant (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Eastern Group of Temples (3 hours)"],
+      "AfterNoon": ["Explore Archaeological Museum (1.5 hours)"],
+      "Evening": ["Attend Light and Sound Show (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Jain Temples (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Ajaigarh Fort (3 hours)"],
+      "AfterNoon": ["Explore Panna National Park (4 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Dhubela Museum (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    }
+  },
+  "hotels": ["Hotel Chandela", "Ramada Khajuraho", "The Lalit Temple View Khajuraho"],
+  "restaurants": ["Maharaja Restaurant", "Karma Cafe", "The Pavilion"],
+  "amount_in_rupees": {
+    "Day1": "3500",
+    "Day2": "3000",
+    "Day3": "2000",
+    "Day4": "4500",
+    "Day5": "1500"
+  }
+},
+{
+  "id": 12,
+  "name": "Ranthambore National Park, Rajasthan, India",
+  "description": "Ranthambore National Park is famous for its tiger population and stunning landscapes, offering safari experiences.",
+  "image": "https://i.ytimg.com/vi/ZnGidCFUB3k/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCS_43_fSb9dNHbQSMl5YnoEah4IQ",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Jeep Safari (3 hours)"],
+      "AfterNoon": ["Explore Ranthambore Fort (2 hours)"],
+      "Evening": ["Dinner at Resort (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Nature Walk (2 hours)"],
+      "AfterNoon": ["Bird Watching (2 hours)"],
+      "Evening": ["Campfire at Resort (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Rajiv Gandhi Museum (2 hours)"],
+      "AfterNoon": ["Explore Padam Talao (2 hours)"],
+      "Evening": ["Dinner at Resort (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Elephant Safari (2 hours)"],
+      "AfterNoon": ["Explore Wildlife Photography (3 hours)"],
+      "Evening": ["Relax by the Campfire (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Kachida Valley (2 hours)"],
+      "AfterNoon": ["Explore Nature Trails (3 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Tiger Den Resort", "The Oberoi Vanyavilas", "Ranthambore Kothi"],
+  "restaurants": ["The Dining Room", "Sher Bagh", "Ranthambore Tiger Den"],
+  "amount_in_rupees": {
+    "Day1": "6000",
+    "Day2": "3000",
+    "Day3": "2000",
+    "Day4": "3000",
+    "Day5": "4000"
+  }
+},
+{
+  "id": 13,
+  "name": "Hawa Mahal, Jaipur, Rajasthan, India",
+  "description": "Hawa Mahal, also known as the Palace of Winds, is an iconic structure in Jaipur known for its unique façade and intricate latticework.",
+  "image": "https://eastindiantraveller.com/wp-content/uploads/2020/09/hawa-mahal-out.jpg?w=1200",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Explore Hawa Mahal (1.5 hours)"],
+      "AfterNoon": ["Visit City Palace (2 hours)"],
+      "Evening": ["Explore Local Bazaars (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Amber Fort (3 hours)"],
+      "AfterNoon": ["Visit Jantar Mantar (2 hours)"],
+      "Evening": ["Dinner at a Traditional Rajasthani Restaurant (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Nahargarh Fort (2 hours)"],
+      "AfterNoon": ["Explore Albert Hall Museum (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Chokhi Dhani (4 hours)"],
+      "AfterNoon": ["Explore Local Artisans (2 hours)"],
+      "Evening": ["Dinner at Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Jaigarh Fort (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Rambagh Palace", "ITC Rajputana", "The Lalit Jaipur"],
+  "restaurants": ["Suvarna Mahal", "Chokhi Dhani", "Spice Court"],
+  "amount_in_rupees": {
+    "Day1": "2000",
+    "Day2": "3000",
+    "Day3": "2500",
+    "Day4": "3500",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 14,
+  "name": "Varanasi, Uttar Pradesh, India",
+  "description": "Varanasi, one of the oldest cities in the world, is famous for its ghats, temples, and spiritual significance.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UPNosGZ2hTmEHeiavuHLjzPwtFoEuHOE6Q&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Boat Ride on the Ganges (2 hours)"],
+      "AfterNoon": ["Visit Kashi Vishwanath Temple (1.5 hours)"],
+      "Evening": ["Ganga Aarti (2 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Sarnath (3 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner by the Ganges (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Banaras Hindu University (2 hours)"],
+      "AfterNoon": ["Explore the Ghats (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Tulsi Manas Temple (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Ramnagar Fort (2 hours)"],
+      "AfterNoon": ["Explore the Artisan's Village (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Taj Ganges", "BrijRama Palace", "Hotel Alka"],
+  "restaurants": ["Dosa Cafe", "Brown Bread Bakery", "Varanasi Food Court"],
+  "amount_in_rupees": {
+    "Day1": "2500",
+    "Day2": "2000",
+    "Day3": "1500",
+    "Day4": "2000",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 15,
+  "name": "Jaisalmer, Rajasthan, India",
+  "description": "Jaisalmer, known as the Golden City, is famous for its stunning forts, havelis, and desert landscapes.",
+  "image": "https://miro.medium.com/v2/resize:fit:540/1*JwW5KHCLFVwJG5DToJgXOg.jpeg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Explore Jaisalmer Fort (2 hours)"],
+      "AfterNoon": ["Visit Patwon Ki Haveli (2 hours)"],
+      "Evening": ["Dinner at Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Sam Sand Dunes (3 hours)"],
+      "AfterNoon": ["Explore Desert Safari (3 hours)"],
+      "Evening": ["Campfire at Desert (2 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Kuldhara Village (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Gadisar Lake (2 hours)"],
+      "AfterNoon": ["Explore Jain Temples (2 hours)"],
+      "Evening": ["Dinner at Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Desert National Park (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Suryagarh", "Hotel Golden City", "The Gulaal"],
+  "restaurants": ["Desert Boy's Dhani", "Jaisalmer Oasis", "The Trio"],
+  "amount_in_rupees": {
+    "Day1": "2500",
+    "Day2": "5000",
+    "Day3": "2000",
+    "Day4": "1500",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 16,
+  "name": "Coorg, Karnataka, India",
+  "description": "Coorg, also known as Kodagu, is famous for its lush green landscapes, coffee plantations, and pleasant weather.",
+  "image": "https://www.holidify.com/images/bgImages/COORG.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit Abbey Falls (2 hours)"],
+      "AfterNoon": ["Explore Coffee Plantations (3 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Raja's Seat (2 hours)"],
+      "AfterNoon": ["Explore Talacauvery (3 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Dubare Elephant Camp (3 hours)"],
+      "AfterNoon": ["Explore Tibetan Monastery (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Nisargadhama Island (2 hours)"],
+      "AfterNoon": ["Explore Iruppu Falls (3 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Madikeri Fort (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["The Tamara Coorg", "Porcupine Castle", "Heritage Resort Coorg"],
+  "restaurants": ["Coorg Cuisine", "Raintree Restaurant", "The Fisherman's Wharf"],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "2500",
+    "Day3": "4000",
+    "Day4": "3500",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 17,
+  "name": "Fatehpur Sikri, Uttar Pradesh, India",
+  "description": "Fatehpur Sikri, a UNESCO World Heritage Site, is famous for its stunning Mughal architecture and historical significance as the former capital of the Mughal Empire.",
+  "image": "https://miro.medium.com/v2/resize:fit:1400/0*eKBWigrvkkWClMYp.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit Buland Darwaza (2 hours)"],
+      "AfterNoon": ["Explore Jodha Bai Palace (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Salim Chishti Dargah (1.5 hours)"],
+      "AfterNoon": ["Explore Panch Mahal (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Diwan-i-Khas (2 hours)"],
+      "AfterNoon": ["Explore the Archaeological Museum (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit the Tomb of Salim Chishti (1.5 hours)"],
+      "AfterNoon": ["Explore the Aitmad-ud-Daula Tomb (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Fatehpur Sikri Fort (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["The Mughal Suite", "Hotel Amar", "Hotel Shankar"],
+  "restaurants": ["The Bagh Restaurant", "Haveli Restaurant", "Sheraton Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "1500",
+    "Day2": "1200",
+    "Day3": "1000",
+    "Day4": "1300",
+    "Day5": "1500"
+  }
+},
+{
+  "id": 18,
+  "name": "Gulmarg, Jammu & Kashmir, India",
+  "description": "Gulmarg is known for its picturesque meadows, skiing opportunities, and the scenic Gulmarg Gondola, one of the highest cable cars in the world.",
+  "image": "https://media.cnn.com/api/v1/images/stellar/prod/240112092135-02-gulmarg-snow.jpg?c=original",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Gulmarg Gondola Ride (2 hours)"],
+      "AfterNoon": ["Explore Khilanmarg (3 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Skiing at Gulmarg (3 hours)"],
+      "AfterNoon": ["Visit St. Mary's Church (1.5 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Alpathar Lake (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Nature Walk at Gulmarg Biosphere Reserve (2 hours)"],
+      "AfterNoon": ["Explore Golf Course (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Maharani Temple (1.5 hours)"],
+      "AfterNoon": ["Explore the scenic meadows (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Hotel Hilltop", "Khyber Himalayan Resort & Spa", "Hotel Signature"],
+  "restaurants": ["Kashmiriyat Restaurant", "Hotel Hilltop Restaurant", "Baker's Cafe"],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "4000",
+    "Day3": "2500",
+    "Day4": "3000",
+    "Day5": "3500"
+  }
+},
+{
+  "id": 19,
+  "name": "Manali, Himachal Pradesh, India",
+  "description": "Manali is a popular hill station known for its stunning landscapes, adventure activities, and vibrant culture.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1tG-A1IyBc-gMhQGwnLRmdT0qXtK8_2Nd8w&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit Hadimba Temple (2 hours)"],
+      "AfterNoon": ["Explore Manu Temple (1.5 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Solang Valley Adventure (3 hours)"],
+      "AfterNoon": ["Visit Rohtang Pass (3 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Vashisht Village (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Nature Walk at Kullu Valley (2 hours)"],
+      "AfterNoon": ["Visit Old Manali (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Manali Sanctuary (2 hours)"],
+      "AfterNoon": ["Explore Jogini Waterfall (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Manu Allaya Resort", "Johnson Lodge", "The Himalayan"],
+  "restaurants": ["The Corner House", "The Cafe 1947", "Driftwood Cafe"],
+  "amount_in_rupees": {
+    "Day1": "2000",
+    "Day2": "3500",
+    "Day3": "1500",
+    "Day4": "2000",
+    "Day5": "2500"
+  }
+},
+{
+  "id": 20,
+  "name": "Shimla, Himachal Pradesh, India",
+  "description": "Shimla, the summer capital of British India, is renowned for its colonial architecture, scenic beauty, and pleasant weather.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OUFRugemjhelGQYFk8kTridiXSaBL683Sg&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit The Ridge (1.5 hours)"],
+      "AfterNoon": ["Explore Jakhoo Temple (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Christ Church (1 hour)"],
+      "AfterNoon": ["Explore Mall Road (2 hours)"],
+      "Evening": ["Relax at a Café (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Kufri (3 hours)"],
+      "AfterNoon": ["Explore Fagu (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Tara Devi Temple (2 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Shimla Heritage Museum (2 hours)"],
+      "AfterNoon": ["Explore Chail (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Wildflower Hall", "The Oberoi Cecil", "Clarkes Hotel"],
+  "restaurants": ["The Indian Coffee House", "Cafe Simla Times", "Ashiana Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "1500",
+    "Day2": "1000",
+    "Day3": "2500",
+    "Day4": "1200",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 21,
+  "name": "Amarnath, Jammu & Kashmir, India",
+  "description": "Amarnath is famous for its annual pilgrimage to the Amarnath Cave, where a naturally occurring ice Shiva Linga is worshipped.",
+  "image": "https://www.shrineyatra.com/wp-content/uploads/2021/07/amarnath-yatra-helicopter.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Trekking to Amarnath Cave (4 hours)"],
+      "AfterNoon": ["Explore the Cave (2 hours)"],
+      "Evening": ["Dinner at a Local Tent (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Return Trek (4 hours)"],
+      "AfterNoon": ["Visit Nearby Temples (2 hours)"],
+      "Evening": ["Relax at a Local Tent (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Explore Pahalgam (3 hours)"],
+      "AfterNoon": ["Visit Aru Valley (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Betaab Valley (3 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Sheshnag Lake (3 hours)"],
+      "AfterNoon": ["Relax at a Local Tent (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Hotel Hilltop", "Kashmir Houseboat", "Hotel Grand Mumtaz"],
+  "restaurants": ["Baker's Cafe", "The Meadow", "Kashmiriyat Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "4000",
+    "Day2": "2000",
+    "Day3": "2500",
+    "Day4": "3000",
+    "Day5": "3500"
+  }
+},
+{
+  "id": 22,
+  "name": "Sunderbans, West Bengal, India",
+  "description": "Sunderbans is a UNESCO World Heritage Site known for its mangrove forests, the Royal Bengal Tiger, and rich biodiversity.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4eFbEhfX_ZXqzMpBbRLaqjZkzNki-6ydWA&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Boat Ride in the Mangroves (3 hours)"],
+      "AfterNoon": ["Visit Sunderbans National Park (3 hours)"],
+      "Evening": ["Dinner at a Local Resort (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Explore Watch Towers (2 hours)"],
+      "AfterNoon": ["Visit Local Villages (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Bird Watching at Sajnekhali (3 hours)"],
+      "AfterNoon": ["Explore Mangrove Trails (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Kachukhali (3 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Wildlife Photography (3 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Sundarbans Tiger Camp", "Banani Resort", "Wildlife Resort"],
+  "restaurants": ["The Forest Restaurant", "Sundarban Restaurant", "Bengal Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "3500",
+    "Day2": "2000",
+    "Day3": "3000",
+    "Day4": "2500",
+    "Day5": "3500"
+  }
+},
+{
+  "id": 23,
+  "name": "Kaziranga National Park, Assam, India",
+  "description": "Kaziranga National Park is a UNESCO World Heritage Site famous for its population of the Indian one-horned rhinoceros.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuL6cwlLJqicbZedQWfmOQ7gApm1vgrIknBg&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Jeep Safari in Kaziranga (3 hours)"],
+      "AfterNoon": ["Visit the Elephant Safari (2 hours)"],
+      "Evening": ["Dinner at a Local Resort (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Bird Watching Tour (3 hours)"],
+      "AfterNoon": ["Visit Kaziranga Orchid Park (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit the National Park Museum (2 hours)"],
+      "AfterNoon": ["Explore Local Villages (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Manas National Park (3 hours)"],
+      "AfterNoon": ["Explore Wildlife Trails (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Deopahar Archaeological Site (2 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Kaziranga Resort", "Bansbari Lodge", "Iora Kaziranga"],
+  "restaurants": ["The Park Restaurant", "Kaziranga Restaurant", "Wildlife Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "2000",
+    "Day3": "1500",
+    "Day4": "2500",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 24,
+  "name": "Meghalaya Caves, India",
+  "description": "Meghalaya is known for its stunning limestone caves, including Siju, Liat Prah, and Mawsmai Caves, offering thrilling spelunking experiences.",
+  "image": "https://www.meghalayatourcabs.com/wp-content/uploads/2015/06/Caves-in-Meghalaya-Tour-Destinations.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit Mawsmai Cave (2 hours)"],
+      "AfterNoon": ["Explore Siju Cave (3 hours)"],
+      "Evening": ["Dinner at a Local Resort (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Liat Prah Cave (3 hours)"],
+      "AfterNoon": ["Explore Local Villages (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Nohkalikai Falls (3 hours)"],
+      "AfterNoon": ["Explore Cherrapunji (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Seven Sisters Falls (3 hours)"],
+      "AfterNoon": ["Explore Living Root Bridges (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit Mawphlang Sacred Forest (2 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Meghalaya Eco Park", "Hotel Landmark", "Jiva Resort"],
+  "restaurants": ["The Bamboo Hut", "Cafe Cherrapunji", "Roots Cafe"],
+  "amount_in_rupees": {
+    "Day1": "2000",
+    "Day2": "1500",
+    "Day3": "2500",
+    "Day4": "3000",
+    "Day5": "2500"
+  }
+},
+{
+  "id": 25,
+  "name": "Rann of Kutch, Gujarat, India",
+  "description": "The Rann of Kutch is a vast salt desert famous for its unique landscape, wildlife, and the vibrant Rann Utsav festival.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBPQgFEvfJl0x_rFyp0qmZeSrArp5_Bfklg&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Explore the Salt Desert (3 hours)"],
+      "AfterNoon": ["Visit Kutch Desert Wildlife Sanctuary (3 hours)"],
+      "Evening": ["Dinner at a Local Tent (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Dhordo Village (2 hours)"],
+      "AfterNoon": ["Explore Local Handicrafts (2 hours)"],
+      "Evening": ["Relax at a Local Tent (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit the Great Rann (3 hours)"],
+      "AfterNoon": ["Explore Local Villages (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Kala Dungar (3 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Wildlife Photography (3 hours)"],
+      "AfterNoon": ["Relax at a Local Tent (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Rann Resort", "Shaam-e-Sarhad Village Resort", "Desert Coursers"],
+  "restaurants": ["Kutch Kitchen", "Kutch Desert Cafe", "Rann Utsav Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "4000",
+    "Day2": "2000",
+    "Day3": "3000",
+    "Day4": "2500",
+    "Day5": "3500"
+  }
+},
+{
+  "id": 26,
+  "name": "Gir National Park, Gujarat, India",
+  "description": "Gir National Park is the only habitat of the Asiatic lion, offering a unique opportunity to see these majestic animals in the wild.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHB2YE0T1E74nkoO8CSGJbI9eYm-s9jtEiQ&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Jeep Safari in Gir (3 hours)"],
+      "AfterNoon": ["Visit Devalia Safari Park (2 hours)"],
+      "Evening": ["Dinner at a Local Resort (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Bird Watching Tour (3 hours)"],
+      "AfterNoon": ["Visit Local Villages (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Explore the Gir Interpretation Zone (2 hours)"],
+      "AfterNoon": ["Visit the Forest Museum (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit the Gir Information Center (3 hours)"],
+      "AfterNoon": ["Explore Wildlife Trails (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit the Kankrej Cattle (2 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Gir Safari Lodge", "The Gateway Hotel", "Lions Paw Resort"],
+  "restaurants": ["The Gir Restaurant", "Lion's Den", "Wildlife Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "2000",
+    "Day3": "2500",
+    "Day4": "3000",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 27,
+  "name": "Hampi, Karnataka, India",
+  "description": "Hampi is a UNESCO World Heritage Site known for its stunning ruins, ancient temples, and breathtaking landscapes.",
+  "image": "https://www.holidaymonk.com/wp-content/uploads/2020/10/Vastuchitra_Stone-Chariot-Hampi.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Explore the Vittala Temple Complex (3 hours)"],
+      "AfterNoon": ["Visit Hampi Bazaar (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit the Royal Enclosure (3 hours)"],
+      "AfterNoon": ["Explore the Elephant Stables (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit Virupaksha Temple (3 hours)"],
+      "AfterNoon": ["Explore Hemakuta Hill (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit the Queen's Bath (3 hours)"],
+      "AfterNoon": ["Explore the Lotus Mahal (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Explore the Anegundi Village (3 hours)"],
+      "AfterNoon": ["Visit Sanapur Lake (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Hampi's Boulders", "Evolve Back Kamalapura Palace", "Hotel Mayura"],
+  "restaurants": ["The Mango Tree", "Kishkinda Heritage Resort", "Hotel Shanti"],
+  "amount_in_rupees": {
+    "Day1": "2000",
+    "Day2": "2500",
+    "Day3": "3000",
+    "Day4": "2500",
+    "Day5": "3000"
+  }
+},
+{
+  "id": 28,
+  "name": "Mysore Palace, Karnataka, India",
+  "description": "Mysore Palace is a historical palace and a significant cultural landmark, renowned for its stunning architecture and rich history.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXsymVK9hugnx8qlZlXHn5nbyLpgIqoF2-w&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Explore the Mysore Palace (3 hours)"],
+      "AfterNoon": ["Visit the Jaganmohan Palace (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Chamundi Hill (3 hours)"],
+      "AfterNoon": ["Explore the Mysore Zoo (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit St. Philomena's Church (2 hours)"],
+      "AfterNoon": ["Explore the Railway Museum (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Brindavan Gardens (3 hours)"],
+      "AfterNoon": ["Explore Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit the Mysore Palace Light Show (2 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Hotel Royal Orchid", "Radisson Blu", "Silent Shores Resort"],
+  "restaurants": ["The Olde Hatti", "Mysore Tandoori", "RRR"],
+  "amount_in_rupees": {
+    "Day1": "2000",
+    "Day2": "2500",
+    "Day3": "1500",
+    "Day4": "2000",
+    "Day5": "2500"
+  }
+},
+{
+  "id": 29,
+  "name": "Ajanta and Ellora Caves, Maharashtra, India",
+  "description": "Ajanta and Ellora Caves are UNESCO World Heritage Sites known for their stunning rock-cut architecture and ancient Buddhist, Hindu, and Jain temples.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHW-KEdnYMCEimn6NuMOGmiPF60wjGikZsQ&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Explore Ajanta Caves (4 hours)"],
+      "AfterNoon": ["Visit the Ajanta Viewpoint (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Visit Ellora Caves (4 hours)"],
+      "AfterNoon": ["Explore the Kailasa Temple (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit the Daulatabad Fort (3 hours)"],
+      "AfterNoon": ["Explore the Aurangabad Caves (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Bibi Ka Maqbara (2 hours)"],
+      "AfterNoon": ["Explore the Local Markets (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Visit the Panchakki (2 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["Hotel Noor Mahal", "Vivanta Aurangabad", "Hotel Taj Residency"],
+  "restaurants": ["Spice Lounge", "The Square", "Mokha Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "2500",
+    "Day2": "3000",
+    "Day3": "2000",
+    "Day4": "1500",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 30,
+  "name": "Nainital, Uttarakhand, India",
+  "description": "Nainital is a popular hill station known for its beautiful lakes, scenic views, and pleasant weather, making it a perfect getaway.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXjZuZJf13afUpsqBCwtSQVw-fB_aQ1VdlQ&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Boat Ride on Naini Lake (2 hours)"],
+      "AfterNoon": ["Visit Naina Devi Temple (1 hour)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day2": {
+      "Morning": ["Explore Snow View Point (3 hours)"],
+      "AfterNoon": ["Visit Tiffin Top (2 hours)"],
+      "Evening": ["Relax at a Local Resort (1.5 hours)"]
+    },
+    "Day3": {
+      "Morning": ["Visit the Nainital Zoo (2 hours)"],
+      "AfterNoon": ["Explore the Mall Road (3 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day4": {
+      "Morning": ["Visit Land's End (2 hours)"],
+      "AfterNoon": ["Explore Bhimtal Lake (2 hours)"],
+      "Evening": ["Dinner at a Local Restaurant (1.5 hours)"]
+    },
+    "Day5": {
+      "Morning": ["Explore Sattal Lake (3 hours)"],
+      "AfterNoon": ["Relax at a Local Resort (2 hours)"],
+      "Evening": ["Dinner Under the Stars (1.5 hours)"]
+    }
+  },
+  "hotels": ["The Naini Retreat", "Shervani Hilltop", "Hotel Himalaya"],
+  "restaurants": ["Sakley’s Restaurant", "The Eatery", "Mohan's Restaurant"],
+  "amount_in_rupees": {
+    "Day1": "2500",
+    "Day2": "3000",
+    "Day3": "2000",
+    "Day4": "1500",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 31,
+  "name": "Marina Beach, Chennai",
+  "description": "Marina Beach is the longest urban beach in India, known for its golden sands, vibrant atmosphere, and iconic landmarks.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2da9gbVzP31vk3nEthEXrqM0Ez7L8gWkCMQ&s",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["St. George's Fort"],
+      "AfterNoon": ["Marina Beach"],
+      "Evening": ["Elliot's Beach"]
+    },
+    "Day2": {
+      "Morning": ["Kapaleeshwarar Temple"],
+      "AfterNoon": ["San Thome Basilica"],
+      "Evening": ["Shopping at T. Nagar"]
+    },
+    "Day3": {
+      "Morning": ["Guindy National Park"],
+      "AfterNoon": ["Vandalur Zoo"],
+      "Evening": ["Dinner at a beachfront restaurant"]
+    },
+    "Day4": {
+      "Morning": ["Tamil Nadu Science and Technology Centre"],
+      "AfterNoon": ["Birla Planetarium"],
+      "Evening": ["Walk along the beach"]
+    },
+    "Day5": {
+      "Morning": ["Chennai Lighthouse"],
+      "AfterNoon": ["Visit the Marina Beach Memorials"],
+      "Evening": ["Enjoy street food along the beach"]
+    }
+  },
+  "hotels": [
+    "Taj Club House",
+    "The Park Chennai",
+    "Radisson Blu Hotel Chennai"
+  ],
+  "restaurants": [
+    "Sea View Restaurant",
+    "Marina Beach Restaurant",
+    "New Woodlands Hotel"
+  ],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "4000",
+    "Day3": "3500",
+    "Day4": "2500",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 32,
+  "name": "Theni, Tamil Nadu",
+  "description": "Theni is a picturesque district known for its scenic landscapes, hills, and agricultural richness. It's a gateway to the Western Ghats and is famous for its pleasant climate.",
+  "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/08/27161023/THENI-FEATURE-compressed.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Bodinayakkanur"],
+      "AfterNoon": ["Kumbakkarai Falls"],
+      "Evening": ["Visit local markets"]
+    },
+    "Day2": {
+      "Morning": ["Sothupakkam Dam"],
+      "AfterNoon": ["Theni Lake"],
+      "Evening": ["Explore nearby tea estates"]
+    },
+    "Day3": {
+      "Morning": ["Meghamalai"],
+      "AfterNoon": ["Visit a spice plantation"],
+      "Evening": ["Dinner at a local restaurant"]
+    },
+    "Day4": {
+      "Morning": ["Virupatchi Dam"],
+      "AfterNoon": ["Explore nearby villages"],
+      "Evening": ["Sunset view at a hilltop"]
+    },
+    "Day5": {
+      "Morning": ["Visit local temples"],
+      "AfterNoon": ["Nature walk in the hills"],
+      "Evening": ["Relax at a scenic spot"]
+    }
+  },
+  "hotels": [
+    "Hotel Sree Sivasakthi",
+    "Ramu's Hotel",
+    "Sri Venkateshwara Residency"
+  ],
+  "restaurants": [
+    "Aasai Restaurant",
+    "Hotel Poonkodi",
+    "Theni Azhagan Restaurant"
+  ],
+  "amount_in_rupees": {
+    "Day1": "3000",
+    "Day2": "3500",
+    "Day3": "4000",
+    "Day4": "3000",
+    "Day5": "2500"
+  }
+},
+{
+  "id": 33,
+  "name": "Madurai, Tamil Nadu",
+  "description": "Madurai is one of the oldest cities in India, known for its rich cultural heritage, ancient temples, and vibrant street life. The city is famous for the Meenakshi Amman Temple and its historical significance.",
+  "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/meenakshi-amman-temple-1656170467_cfebe78d69f069f881aa.webp",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Meenakshi Amman Temple"],
+      "AfterNoon": ["Thirumalai Nayakkar Mahal"],
+      "Evening": ["Gandhi Museum"]
+    },
+    "Day2": {
+      "Morning": ["Alagar Kovil"],
+      "AfterNoon": ["Pazhamudhir Solai"],
+      "Evening": ["Local markets"]
+    },
+    "Day3": {
+      "Morning": ["Vandiyur Mariamman Teppakulam"],
+      "AfterNoon": ["Visit local handicraft shops"],
+      "Evening": ["Dinner at a local restaurant"]
+    },
+    "Day4": {
+      "Morning": ["Azhagar Kovil"],
+      "AfterNoon": ["Visit to local tea estates"],
+      "Evening": ["Cultural performance at a local venue"]
+    },
+    "Day5": {
+      "Morning": ["Visit local temples"],
+      "AfterNoon": ["Nature walk in nearby hills"],
+      "Evening": ["Relax at a scenic spot"]
+    }
+  },
+  "hotels": [
+    "Heritage Madurai",
+    "The Tamara Heritage",
+    "Hotel Sangam"
+  ],
+  "restaurants": [
+    "Sree Sabarees",
+    "Murugan Idli Shop",
+    "Kumar Mess"
+  ],
+  "amount_in_rupees": {
+    "Day1": "4000",
+    "Day2": "3500",
+    "Day3": "3000",
+    "Day4": "2500",
+    "Day5": "2000"
+  }
+},
+{
+  "id": 34,
+  "name": "Kanyakumari, Tamil Nadu",
+  "description": "Kanyakumari is located at the southernmost tip of India, where the Bay of Bengal, Arabian Sea, and Indian Ocean meet. It is known for its stunning sunrise and sunset views, Vivekananda Rock Memorial, and rich cultural heritage.",
+  "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/10/17134216/sunrise-in-kanyakumari.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Vivekananda Rock Memorial"],
+      "AfterNoon": ["Thiruvalluvar Statue"],
+      "Evening": ["Kanyakumari Beach"]
+    },
+    "Day2": {
+      "Morning": ["Kumari Amman Temple"],
+      "AfterNoon": ["Padmanabhapuram Palace"],
+      "Evening": ["Sunset Viewpoint"]
+    },
+    "Day3": {
+      "Morning": ["Gandhi Memorial"],
+      "AfterNoon": ["Kanyakumari Wax Museum"],
+      "Evening": ["Baywatch Water Park"]
+    },
+    "Day4": {
+      "Morning": ["Mathur Aqueduct"],
+      "AfterNoon": ["Thirparappu Waterfalls"],
+      "Evening": ["Local handicraft market visit"]
+    },
+    "Day5": {
+      "Morning": ["Suchindram Temple"],
+      "AfterNoon": ["Muttom Beach"],
+      "Evening": ["Kanyakumari Lighthouse"]
+    }
+  },
+  "hotels": [
+    "Sparsa Resort",
+    "The Sea Shore Hotel",
+    "Hotel Sea View"
+  ],
+  "restaurants": [
+    "Triveni Restaurant",
+    "The Ocean Restaurant",
+    "Hotel Saravana"
+  ],
+  "amount_in_rupees": {
+    "Day1": "5000",
+    "Day2": "4500",
+    "Day3": "5500",
+    "Day4": "4000",
+    "Day5": "3500"
+  }
+},
+{
+  "id": 35,
+  "name": "Ooty, Tamil Nadu",
+  "description": "Ooty, also known as Udhagamandalam, is a picturesque hill station located in the Nilgiri Hills. It is famous for its scenic landscapes, tea gardens, and pleasant climate, making it a favorite tourist destination.",
+  "image": "https://www.trawell.in/blog/wp-content/uploads/2024/03/ooty-main-730x410.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Ooty Lake"],
+      "AfterNoon": ["Botanical Gardens"],
+      "Evening": ["Ooty Rose Garden"]
+    },
+    "Day2": {
+      "Morning": ["Doddabetta Peak"],
+      "AfterNoon": ["Tea Museum"],
+      "Evening": ["Emerald Lake"]
+    },
+    "Day3": {
+      "Morning": ["Pykara Falls"],
+      "AfterNoon": ["Mudumalai National Park"],
+      "Evening": ["Nilgiri Mountain Railway"]
+    },
+    "Day4": {
+      "Morning": ["Avalanche Lake"],
+      "AfterNoon": ["St. Stephen's Church"],
+      "Evening": ["Shopping at Ooty Market"]
+    },
+    "Day5": {
+      "Morning": ["Cairn Hill Reserve Forest"],
+      "AfterNoon": ["Wenlock Downs"],
+      "Evening": ["Ooty Boat House"]
+    }
+  },
+  "hotels": [
+    "Savoy Ooty",
+    "Sterling Ooty Fern Hill",
+    "Gem Park Ooty"
+  ],
+  "restaurants": [
+    "Hyderabad Biryani House",
+    "Earl's Secret",
+    "Nahar's Sidewalk Cafe"
+  ],
+  "amount_in_rupees": {
+    "Day1": "8000",
+    "Day2": "7500",
+    "Day3": "9000",
+    "Day4": "8500",
+    "Day5": "8000"
+  }
+},
+{
+  "id": 36,
+  "name": "Kodaikanal, Tamil Nadu",
+  "description": "Kodaikanal, often referred to as the 'Princess of Hill Stations,' is a charming destination in the Western Ghats. It is known for its misty hills, serene lakes, and vibrant flora.",
+  "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/medium-desktop/kodaikanal-lake-1657265233_ea496c49625350b53847.webp",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Kodaikanal Lake"],
+      "AfterNoon": ["Bryant Park"],
+      "Evening": ["Coaker's Walk"]
+    },
+    "Day2": {
+      "Morning": ["Pillar Rocks"],
+      "AfterNoon": ["Green Valley View"],
+      "Evening": ["Silver Cascade Falls"]
+    },
+    "Day3": {
+      "Morning": ["Berijam Lake"],
+      "AfterNoon": ["Pine Forest"],
+      "Evening": ["Silent Valley View"]
+    },
+    "Day4": {
+      "Morning": ["Chettiar Park"],
+      "AfterNoon": ["Kurunji Andavar Temple"],
+      "Evening": ["Shopping at Kodaikanal Market"]
+    },
+    "Day5": {
+      "Morning": ["Dolphin's Nose"],
+      "AfterNoon": ["Vattakanal Waterfalls"],
+      "Evening": ["Boat Ride on Kodaikanal Lake"]
+    }
+  },
+  "hotels": [
+    "The Carlton",
+    "Kodai Resort Hotel",
+    "Sterling Kodai Lake"
+  ],
+  "restaurants": [
+    "Cloud Street",
+    "Tava Vegetarian",
+    "Royal Tibet"
+  ],
+  "amount_in_rupees": {
+    "Day1": "9000",
+    "Day2": "8500",
+    "Day3": "9500",
+    "Day4": "8000",
+    "Day5": "8500"
+  }
+},
+{
+  "id": 37,
+  "name": "Mahabalipuram, Tamil Nadu",
+  "description": "Mahabalipuram, known for its ancient temples and rock-cut monuments, is a UNESCO World Heritage site on the Coromandel Coast. It is famous for its Shore Temple, Arjuna's Penance, and intricate stone carvings.",
+  "image": "https://www.tamilnadutourism.tn.gov.in/img/pages/mobile/mahabalipuram-1655321102_d5771401ae0d42bea6fb.webp",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Shore Temple"],
+      "AfterNoon": ["Arjuna's Penance"],
+      "Evening": ["Five Rathas"]
+    },
+    "Day2": {
+      "Morning": ["Mahabalipuram Beach"],
+      "AfterNoon": ["Pancha Rathas"],
+      "Evening": ["Krishna's Butterball"]
+    },
+    "Day3": {
+      "Morning": ["Tiger Cave"],
+      "AfterNoon": ["Mahishasuramardini Cave"],
+      "Evening": ["Varaha Cave Temple"]
+    },
+    "Day4": {
+      "Morning": ["India Seashell Museum"],
+      "AfterNoon": ["Crocodile Bank"],
+      "Evening": ["Sculpture workshops and Shopping"]
+    },
+    "Day5": {
+      "Morning": ["Light House"],
+      "AfterNoon": ["DakshinaChitra Museum"],
+      "Evening": ["Relax at a seaside resort"]
+    }
+  },
+  "hotels": [
+    "Radisson Blu Resort Temple Bay",
+    "Chariot Beach Resort",
+    "Ideal Beach Resort"
+  ],
+  "restaurants": [
+    "The Wharf Restaurant",
+    "Moonrakers",
+    "Le Yogi"
+  ],
+  "amount_in_rupees": {
+    "Day1": "10000",
+    "Day2": "9000",
+    "Day3": "9500",
+    "Day4": "8500",
+    "Day5": "9000"
+  }
+},
+{
+  "id": 38,
+  "name": "Thanjavur, Tamil Nadu",
+  "description": "Thanjavur is a historical city known for its grand temples, classical art forms, and rich heritage. The Brihadeeswarar Temple, a UNESCO World Heritage site, is one of the most significant landmarks in the city.",
+  "image": "https://ursji.wordpress.com/wp-content/uploads/2018/01/adsc_8484.jpg?w=1024",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Brihadeeswarar Temple"],
+      "AfterNoon": ["Thanjavur Royal Palace"],
+      "Evening": ["Sivaganga Park"]
+    },
+    "Day2": {
+      "Morning": ["Gangaikonda Cholapuram"],
+      "AfterNoon": ["Thanjavur Art Gallery"],
+      "Evening": ["Schwartz Church"]
+    },
+    "Day3": {
+      "Morning": ["Punnai Nallur Mariamman Temple"],
+      "AfterNoon": ["Saraswathi Mahal Library"],
+      "Evening": ["Shopping for Thanjavur Paintings"]
+    },
+    "Day4": {
+      "Morning": ["Airavatesvara Temple (Darasuram)"],
+      "AfterNoon": ["Kumbakonam Temples Tour"],
+      "Evening": ["Visit a Silk Weaving Workshop"]
+    },
+    "Day5": {
+      "Morning": ["Thirumanancheri Temple"],
+      "AfterNoon": ["Pillayarpatti Temple"],
+      "Evening": ["Explore Local Markets"]
+    }
+  },
+  "hotels": [
+    "Svatma Thanjavur",
+    "Ideal River View Resort",
+    "Hotel Sangam"
+  ],
+  "restaurants": [
+    "Hotel Gnanam",
+    "Vasantha Bhavan",
+    "Sree Ariya Bhavan"
+  ],
+  "amount_in_rupees": {
+    "Day1": "10000",
+    "Day2": "9000",
+    "Day3": "9500",
+    "Day4": "8500",
+    "Day5": "9000"
+  }
+},
+{
+  "id": 39,
+  "name": "Rameshwaram, Tamil Nadu",
+  "description": "Rameshwaram is one of the holiest places in India, known for its sacred temples, especially the Ramanathaswamy Temple. It is also a gateway to explore stunning beaches and religious landmarks.",
+  "image": "https://casualwalker.com/wp-content/uploads/2021/05/Pamban_Bridge_Mandapam_Rameswaram_00012.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Ramanathaswamy Temple"],
+      "AfterNoon": ["Agni Theertham"],
+      "Evening": ["Dhanushkodi Beach"]
+    },
+    "Day2": {
+      "Morning": ["Pamban Bridge"],
+      "AfterNoon": ["Gandhamadhana Parvatham"],
+      "Evening": ["Kothandaramaswamy Temple"]
+    },
+    "Day3": {
+      "Morning": ["Villoondi Theertham"],
+      "AfterNoon": ["Ariyaman Beach"],
+      "Evening": ["Annai Indira Gandhi Road Bridge"]
+    },
+    "Day4": {
+      "Morning": ["Dr. A.P.J. Abdul Kalam Memorial"],
+      "AfterNoon": ["Hanuman Temple"],
+      "Evening": ["Rama Theertham"]
+    },
+    "Day5": {
+      "Morning": ["Five-Faced Hanuman Temple"],
+      "AfterNoon": ["Ruins of Dhanushkodi"],
+      "Evening": ["Water sports at Rameshwaram Beach"]
+    }
+  },
+  "hotels": [
+    "Daiwik Hotels",
+    "Hotel Queen Palace",
+    "Hotel Pearl Residency"
+  ],
+  "restaurants": [
+    "Shabari Restaurant",
+    "Guru Mess",
+    "Sri Murugan Mess"
+  ],
+  "amount_in_rupees": {
+    "Day1": "10000",
+    "Day2": "12000",
+    "Day3": "11000",
+    "Day4": "9000",
+    "Day5": "13000"
+  }
+},
+{
+  "id": 40,
+  "name": "Murudeshwar, Karnataka",
+  "description": "Murudeshwar is a coastal town in Karnataka, famous for its majestic Shiva statue and serene beaches. It’s a perfect blend of religious and natural attractions.",
+  "image": "https://i.pinimg.com/originals/05/89/28/058928b847eaeafd3dba258a66491ed2.jpg",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Murudeshwar Temple"],
+      "AfterNoon": ["Murudeshwar Beach"],
+      "Evening": ["Statue of Lord Shiva"]
+    },
+    "Day2": {
+      "Morning": ["Netrani Island Scuba Diving"],
+      "AfterNoon": ["Apsarakonda Falls"],
+      "Evening": ["Sunset at Murudeshwar Beach"]
+    },
+    "Day3": {
+      "Morning": ["Idagunji Ganapathi Temple"],
+      "AfterNoon": ["Bhatkal Fort"],
+      "Evening": ["Drive through Western Ghats"]
+    },
+    "Day4": {
+      "Morning": ["Jog Falls"],
+      "AfterNoon": ["Sigandur Chowdeshwari Temple"],
+      "Evening": ["Relax at Kundapura Beach"]
+    },
+    "Day5": {
+      "Morning": ["Kodachadri Trek"],
+      "AfterNoon": ["Kollur Mookambika Temple"],
+      "Evening": ["Back to Murudeshwar for Dinner by the Beach"]
+    }
+  },
+  "hotels": [
+    "RNS Residency",
+    "Hotel Naveen Murudeshwar",
+    "Dhenu Atithya"
+  ],
+  "restaurants": [
+    "Naveen Beach Restaurant",
+    "Sea Lounge Restaurant",
+    "Mavalli Tiffin Room (MTR)"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "15000",
+    "Day3": "13000",
+    "Day4": "16000",
+    "Day5": "14000"
+  }
+}
+      ]
+}

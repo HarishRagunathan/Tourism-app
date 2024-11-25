@@ -1,0 +1,1507 @@
+{
+  "destinations": [
+
+{
+  "id": 1,
+  "name": "Paris, France",
+  "description": "Known for its art, fashion, and culture, Paris features landmarks like the Eiffel Tower and the Louvre.",
+  "image": "https://images.pexels.com/photos/2728793/pexels-photo-2728793.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Eiffel Tower"],
+      "AfterNoon": ["Seine River Cruise"],
+      "Evening": ["Champs-Élysées"]
+    },
+    "Day2": {
+      "Morning": ["Louvre Museum"],
+      "AfterNoon": ["Notre-Dame Cathedral"],
+      "Evening": ["Montmartre"]
+    },
+    "Day3": {
+      "Morning": ["Versailles Palace"],
+      "AfterNoon": ["Tuileries Garden"],
+      "Evening": ["Moulin Rouge Show"]
+    },
+    "Day4": {
+      "Morning": ["Sainte-Chapelle"],
+      "AfterNoon": ["Musée d'Orsay"],
+      "Evening": ["Dinner at a Parisian Bistro"]
+    },
+    "Day5": {
+      "Morning": ["Luxembourg Gardens"],
+      "AfterNoon": ["Catacombs of Paris"],
+      "Evening": ["Seine River Night Cruise"]
+    }
+  },
+  "hotels": [
+    "Le Meurice",
+    "Hôtel Plaza Athénée",
+    "Shangri-La Hotel"
+  ],
+  "restaurants": [
+    "Le Jules Verne",
+    "Café de Flore",
+    "L'Atelier de Joël Robuchon"
+  ],
+  "amount_in_rupees": {
+    "Day1": "15000",
+    "Day2": "12000",
+    "Day3": "18000",
+    "Day4": "14000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 2,
+  "name": "Tokyo, Japan",
+  "description": "A bustling metropolis known for its modernity, historic temples, and unique culture.",
+  "image": "https://images.pexels.com/photos/2339009/pexels-photo-2339009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Senso-ji Temple"],
+      "AfterNoon": ["Tokyo Skytree"],
+      "Evening": ["Asakusa Street Food"]
+    },
+    "Day2": {
+      "Morning": ["Shibuya Crossing"],
+      "AfterNoon": ["Meiji Shrine"],
+      "Evening": ["Harajuku Shopping"]
+    },
+    "Day3": {
+      "Morning": ["Tsukiji Outer Market"],
+      "AfterNoon": ["Ginza Shopping District"],
+      "Evening": ["Odaiba Night View"]
+    },
+    "Day4": {
+      "Morning": ["Imperial Palace"],
+      "AfterNoon": ["Ueno Park"],
+      "Evening": ["Akihabara Electronics District"]
+    },
+    "Day5": {
+      "Morning": ["Nakamise Street"],
+      "AfterNoon": ["Yoyogi Park"],
+      "Evening": ["Shinjuku Gyoen National Garden"]
+    }
+  },
+  "hotels": [
+    "Park Hyatt Tokyo",
+    "The Peninsula Tokyo",
+    "Mandarin Oriental Tokyo"
+  ],
+  "restaurants": [
+    "Sukiyabashi Jiro",
+    "Ichiran Ramen",
+    "Narisawa"
+  ],
+  "amount_in_rupees": {
+    "Day1": "10000",
+    "Day2": "9000",
+    "Day3": "12000",
+    "Day4": "11000",
+    "Day5": "13000"
+  }
+},
+{
+  "id": 3,
+  "name": "New York City, USA",
+  "description": "Famous for its iconic skyline, vibrant arts scene, and diverse neighborhoods.",
+  "image": "https://images.pexels.com/photos/1525612/pexels-photo-1525612.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Statue of Liberty"],
+      "AfterNoon": ["Ellis Island"],
+      "Evening": ["Brooklyn Bridge"]
+    },
+    "Day2": {
+      "Morning": ["Central Park"],
+      "AfterNoon": ["Metropolitan Museum of Art"],
+      "Evening": ["Broadway Show"]
+    },
+    "Day3": {
+      "Morning": ["Times Square"],
+      "AfterNoon": ["9/11 Memorial"],
+      "Evening": ["Fifth Avenue Shopping"]
+    },
+    "Day4": {
+      "Morning": ["The High Line"],
+      "AfterNoon": ["Chelsea Market"],
+      "Evening": ["Empire State Building Observation Deck"]
+    },
+    "Day5": {
+      "Morning": ["Museum of Modern Art (MoMA)"],
+      "AfterNoon": ["Coney Island"],
+      "Evening": ["Dinner in Little Italy"]
+    }
+  },
+  "hotels": [
+    "The Ritz-Carlton New York",
+    "The Standard, High Line",
+    "Four Seasons Hotel New York Downtown"
+  ],
+  "restaurants": [
+    "Katz's Delicatessen",
+    "Le Bernardin",
+    "Shake Shack"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "15000",
+    "Day3": "13000",
+    "Day4": "14000",
+    "Day5": "11000"
+  }
+},
+{
+  "id": 4,
+  "name": "Rome, Italy",
+  "description": "A city steeped in history, known for its ancient ruins, art, and delicious cuisine.",
+  "image": "https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Colosseum"],
+      "AfterNoon": ["Roman Forum"],
+      "Evening": ["Piazza Navona"]
+    },
+    "Day2": {
+      "Morning": ["Vatican City"],
+      "AfterNoon": ["St. Peter's Basilica"],
+      "Evening": ["Trastevere Neighborhood"]
+    },
+    "Day3": {
+      "Morning": ["Pantheon"],
+      "AfterNoon": ["Trevi Fountain"],
+      "Evening": ["Dinner at a Traditional Osteria"]
+    },
+    "Day4": {
+      "Morning": ["Borghese Gallery"],
+      "AfterNoon": ["Campo de' Fiori"],
+      "Evening": ["Galleria Alberto Sordi"]
+    },
+    "Day5": {
+      "Morning": ["Catacombs of Rome"],
+      "AfterNoon": ["Jewish Ghetto"],
+      "Evening": ["Gelato at Giolitti"]
+    }
+  },
+  "hotels": [
+    "Hotel Eden",
+    "Rome Cavalieri, A Waldorf Astoria Hotel",
+    "The St. Regis Rome"
+  ],
+  "restaurants": [
+    "Da Enzo al 29",
+    "Piperno",
+    "Roscioli"
+  ],
+  "amount_in_rupees": {
+    "Day1": "10000",
+    "Day2": "12000",
+    "Day3": "9000",
+    "Day4": "11000",
+    "Day5": "10000"
+  }
+},
+{
+  "id": 5,
+  "name": "Sydney, Australia",
+  "description": "Renowned for its Sydney Opera House, beautiful harbor, and stunning beaches.",
+  "image": "https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Sydney Opera House"],
+      "AfterNoon": ["Royal Botanic Garden"],
+      "Evening": ["Darling Harbour"]
+    },
+    "Day2": {
+      "Morning": ["Bondi Beach"],
+      "AfterNoon": ["Coogee Beach"],
+      "Evening": ["Cliff Walk"]
+    },
+    "Day3": {
+      "Morning": ["Taronga Zoo"],
+      "AfterNoon": ["The Rocks"],
+      "Evening": ["Dinner Cruise on the Harbour"]
+    },
+    "Day4": {
+      "Morning": ["Manly Beach"],
+      "AfterNoon": ["Sydney Tower Eye"],
+      "Evening": ["Queen Victoria Building"]
+    },
+    "Day5": {
+      "Morning": ["Art Gallery of New South Wales"],
+      "AfterNoon": ["Chinatown"],
+      "Evening": ["Cockle Bay Wharf"]
+    }
+  },
+  "hotels": [
+    "Shangri-La Hotel Sydney",
+    "The Fullerton Hotel Sydney",
+    "Park Hyatt Sydney"
+  ],
+  "restaurants": [
+    "Quay",
+    "Rockpool Bar & Grill",
+    "Mr. Wong"
+  ],
+  "amount_in_rupees": {
+    "Day1": "11000",
+    "Day2": "9000",
+    "Day3": "13000",
+    "Day4": "12000",
+    "Day5": "11000"
+  }
+},
+{
+  "id": 6,
+  "name": "Bangkok, Thailand",
+  "description": "A vibrant city known for its ornate temples, delicious street food, and lively markets.",
+  "image": "https://images.pexels.com/photos/2797526/pexels-photo-2797526.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Grand Palace"],
+      "AfterNoon": ["Wat Pho"],
+      "Evening": ["Chao Phraya River Dinner Cruise"]
+    },
+    "Day2": {
+      "Morning": ["Chatuchak Weekend Market"],
+      "AfterNoon": ["Siam Paragon"],
+      "Evening": ["Rooftop Bar"]
+    },
+    "Day3": {
+      "Morning": ["Jim Thompson House"],
+      "AfterNoon": ["Bangkok Art and Culture Centre"],
+      "Evening": ["Street Food Tour"]
+    },
+    "Day4": {
+      "Morning": ["Erawan Shrine"],
+      "AfterNoon": ["Terminal 21"],
+      "Evening": ["Khao San Road"]
+    },
+    "Day5": {
+      "Morning": ["Lumpini Park"],
+      "AfterNoon": ["Dusit Zoo"],
+      "Evening": ["Dinner at a Floating Restaurant"]
+    }
+  },
+  "hotels": [
+    "Mandarin Oriental Bangkok",
+    "The Siam Hotel",
+    "Banyan Tree Bangkok"
+  ],
+  "restaurants": [
+    "Jay Fai",
+    "Nahm",
+    "Sirocco"
+  ],
+  "amount_in_rupees": {
+    "Day1": "7000",
+    "Day2": "6000",
+    "Day3": "8000",
+    "Day4": "5000",
+    "Day5": "7000"
+  }
+},
+{
+  "id": 7,
+  "name": "London, UK",
+  "description": "Famous for its history, culture, and landmarks like Big Ben and the British Museum.",
+  "image": "https://images.pexels.com/photos/29014820/pexels-photo-29014820/free-photo-of-aerial-view-of-st-paul-s-cathedral-in-london.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Tower of London"],
+      "AfterNoon": ["Tower Bridge"],
+      "Evening": ["London Eye"]
+    },
+    "Day2": {
+      "Morning": ["British Museum"],
+      "AfterNoon": ["Covent Garden"],
+      "Evening": ["West End Show"]
+    },
+    "Day3": {
+      "Morning": ["Buckingham Palace"],
+      "AfterNoon": ["St. James's Park"],
+      "Evening": ["Soho Nightlife"]
+    },
+    "Day4": {
+      "Morning": ["Westminster Abbey"],
+      "AfterNoon": ["Houses of Parliament"],
+      "Evening": ["Dinner at a Pub"]
+    },
+    "Day5": {
+      "Morning": ["Camden Market"],
+      "AfterNoon": ["Kensington Gardens"],
+      "Evening": ["Harrods Shopping"]
+    }
+  },
+  "hotels": [
+    "The Savoy",
+    "The Ritz London",
+    "Shangri-La Hotel at The Shard"
+  ],
+  "restaurants": [
+    "Dinner by Heston Blumenthal",
+    "Sketch",
+    "Dishoom"
+  ],
+  "amount_in_rupees": {
+    "Day1": "14000",
+    "Day2": "15000",
+    "Day3": "12000",
+    "Day4": "13000",
+    "Day5": "11000"
+  }
+},
+{
+  "id": 8,
+  "name": "Dubai, UAE",
+  "description": "Known for its modern architecture, luxury shopping, and vibrant nightlife.",
+  "image": "https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Burj Khalifa"],
+      "AfterNoon": ["Dubai Mall"],
+      "Evening": ["Dubai Fountain Show"]
+    },
+    "Day2": {
+      "Morning": ["Jumeirah Beach"],
+      "AfterNoon": ["Palm Jumeirah"],
+      "Evening": ["Desert Safari"]
+    },
+    "Day3": {
+      "Morning": ["Dubai Marina"],
+      "AfterNoon": ["Mall of the Emirates"],
+      "Evening": ["Ski Dubai"]
+    },
+    "Day4": {
+      "Morning": ["Dubai Aquarium"],
+      "AfterNoon": ["Gold Souk"],
+      "Evening": ["Dinner at Burj Al Arab"]
+    },
+    "Day5": {
+      "Morning": ["Miracle Garden"],
+      "AfterNoon": ["Global Village"],
+      "Evening": ["Dhow Cruise"]
+    }
+  },
+  "hotels": [
+    "Burj Al Arab Jumeirah",
+    "Armani Hotel Dubai",
+    "JW Marriott Marquis Dubai"
+  ],
+  "restaurants": [
+    "Nobu",
+    "Zuma",
+    "At.mosphere"
+  ],
+  "amount_in_rupees": {
+    "Day1": "16000",
+    "Day2": "14000",
+    "Day3": "13000",
+    "Day4": "15000",
+    "Day5": "14000"
+  }
+},
+{
+  "id": 9,
+  "name": "Istanbul, Turkey",
+  "description": "A city that straddles Europe and Asia, known for its rich history and culture.",
+  "image": "https://images.pexels.com/photos/29025536/pexels-photo-29025536/free-photo-of-galata-tower-rising-in-istanbul-cityscape.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Hagia Sophia"],
+      "AfterNoon": ["Blue Mosque"],
+      "Evening": ["Grand Bazaar"]
+    },
+    "Day2": {
+      "Morning": ["Topkapi Palace"],
+      "AfterNoon": ["Basilica Cistern"],
+      "Evening": ["Bosphorus Cruise"]
+    },
+    "Day3": {
+      "Morning": ["Spice Bazaar"],
+      "AfterNoon": ["Galata Tower"],
+      "Evening": ["Dinner in Sultanahmet"]
+    },
+    "Day4": {
+      "Morning": ["Chora Church"],
+      "AfterNoon": ["Dolmabahçe Palace"],
+      "Evening": ["Nisantasi Shopping District"]
+    },
+    "Day5": {
+      "Morning": ["Fener & Balat"],
+      "AfterNoon": ["Süleymaniye Mosque"],
+      "Evening": ["Nightlife in Taksim"]
+    }
+  },
+  "hotels": [
+    "Ciragan Palace Kempinski",
+    "Four Seasons Hotel Istanbul at Sultanahmet",
+    "Raffles Istanbul"
+  ],
+  "restaurants": [
+    "Mikla",
+    "Neyzi Restaurant",
+    "Giritli Restaurant"
+  ],
+  "amount_in_rupees": {
+    "Day1": "8000",
+    "Day2": "9000",
+    "Day3": "7000",
+    "Day4": "6000",
+    "Day5": "7500"
+  }
+},
+{
+  "id": 10,
+  "name": "Rio de Janeiro, Brazil",
+  "description": "Known for its stunning beaches, vibrant culture, and the iconic Christ the Redeemer statue.",
+  "image": "https://images.pexels.com/photos/24039553/pexels-photo-24039553/free-photo-of-low-angle-shot-of-the-christ-the-redeemer-statue-in-rio-de-janeiro-brazil.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Christ the Redeemer"],
+      "AfterNoon": ["Sugarloaf Mountain"],
+      "Evening": ["Copacabana Beach"]
+    },
+    "Day2": {
+      "Morning": ["Ipanema Beach"],
+      "AfterNoon": ["Tijuca National Park"],
+      "Evening": ["Dinner in Lapa"]
+    },
+    "Day3": {
+      "Morning": ["Selarón Steps"],
+      "AfterNoon": ["Botanical Garden"],
+      "Evening": ["Maracanã Stadium Tour"]
+    },
+    "Day4": {
+      "Morning": ["Museum of Tomorrow"],
+      "AfterNoon": ["Rio Art Museum"],
+      "Evening": ["Nightlife in Leblon"]
+    },
+    "Day5": {
+      "Morning": ["Parque Lage"],
+      "AfterNoon": ["Praia do Leme"],
+      "Evening": ["Dinner with a View"]
+    }
+  },
+  "hotels": [
+    "Belmond Copacabana Palace",
+    "Hotel Fasano Rio de Janeiro",
+    "Sheraton Grand Rio Hotel & Resort"
+  ],
+  "restaurants": [
+    "Oro",
+    "Cipriani",
+    "Fogo de Chão"
+  ],
+  "amount_in_rupees": {
+    "Day1": "10000",
+    "Day2": "9000",
+    "Day3": "7000",
+    "Day4": "8000",
+    "Day5": "9000"
+  }
+},
+{
+  "id": 11,
+  "name": "Cairo, Egypt",
+  "description": "Famous for its ancient monuments, including the Great Pyramids of Giza and the Sphinx.",
+  "image": "https://images.pexels.com/photos/28978134/pexels-photo-28978134/free-photo-of-grand-egyptian-museum-gallery-interior-in-cairo.png?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Pyramids of Giza"],
+      "AfterNoon": ["Sphinx"],
+      "Evening": ["Khan el-Khalili Bazaar"]
+    },
+    "Day2": {
+      "Morning": ["Egyptian Museum"],
+      "AfterNoon": ["Coptic Cairo"],
+      "Evening": ["Nile Dinner Cruise"]
+    },
+    "Day3": {
+      "Morning": ["Saqqara"],
+      "AfterNoon": ["Memphis"],
+      "Evening": ["Dinner in Zamalek"]
+    },
+    "Day4": {
+      "Morning": ["Citadel of Saladin"],
+      "AfterNoon": ["Al-Azhar Park"],
+      "Evening": ["El-Muizz Street"]
+    },
+    "Day5": {
+      "Morning": ["Mosque of Muhammad Ali"],
+      "AfterNoon": ["Islamic Cairo"],
+      "Evening": ["Dinner at a Rooftop Restaurant"]
+    }
+  },
+  "hotels": [
+    "Four Seasons Hotel Cairo at Nile Plaza",
+    "Sofitel Cairo Nile El Gezirah",
+    "Kempinski Nile Hotel Cairo"
+  ],
+  "restaurants": [
+    "Abou El Sid",
+    "Sequoia",
+    "Khan El Khalili Restaurant"
+  ],
+  "amount_in_rupees": {
+    "Day1": "5000",
+    "Day2": "6000",
+    "Day3": "7000",
+    "Day4": "5000",
+    "Day5": "6000"
+  }
+},
+{
+  "id": 12,
+  "name": "Barcelona, Spain",
+  "description": "Known for its art and architecture, especially the works of Antoni Gaudí.",
+  "image": "https://images.pexels.com/photos/819764/pexels-photo-819764.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Sagrada Família"],
+      "AfterNoon": ["Park Güell"],
+      "Evening": ["Magic Fountain of Montjuïc"]
+    },
+    "Day2": {
+      "Morning": ["La Rambla"],
+      "AfterNoon": ["Gothic Quarter"],
+      "Evening": ["Dinner at a Tapas Bar"]
+    },
+    "Day3": {
+      "Morning": ["Casa Batlló"],
+      "AfterNoon": ["Casa Milà (La Pedrera)"],
+      "Evening": ["Flamenco Show"]
+    },
+    "Day4": {
+      "Morning": ["Picasso Museum"],
+      "AfterNoon": ["Barcelona Cathedral"],
+      "Evening": ["Beach Walk"]
+    },
+    "Day5": {
+      "Morning": ["Montjuïc Castle"],
+      "AfterNoon": ["Poble Espanyol"],
+      "Evening": ["Dinner with a View"]
+    }
+  },
+  "hotels": [
+    "Hotel Arts Barcelona",
+    "Mandarin Oriental Barcelona",
+    "W Barcelona"
+  ],
+  "restaurants": [
+    "Tickets",
+    "Cal Pep",
+    "La Paradeta"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "8000",
+    "Day3": "9000",
+    "Day4": "6000",
+    "Day5": "7000"
+  }
+},
+{
+  "id": 13,
+  "name": "Singapore",
+  "description": "A global financial hub with a tropical climate and multicultural population.",
+  "image": "https://images.pexels.com/photos/2804038/pexels-photo-2804038.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Marina Bay Sands"],
+      "AfterNoon": ["Gardens by the Bay"],
+      "Evening": ["SkyPark Observation Deck"]
+    },
+    "Day2": {
+      "Morning": ["Sentosa Island"],
+      "AfterNoon": ["Universal Studios Singapore"],
+      "Evening": ["S.E.A. Aquarium"]
+    },
+    "Day3": {
+      "Morning": ["Chinatown"],
+      "AfterNoon": ["Little India"],
+      "Evening": ["Clarke Quay"]
+    },
+    "Day4": {
+      "Morning": ["Orchard Road"],
+      "AfterNoon": ["Botanic Gardens"],
+      "Evening": ["Hawker Centre Dinner"]
+    },
+    "Day5": {
+      "Morning": ["Singapore Zoo"],
+      "AfterNoon": ["River Safari"],
+      "Evening": ["Night Safari"]
+    }
+  },
+  "hotels": [
+    "Marina Bay Sands",
+    "Raffles Hotel Singapore",
+    "The Fullerton Hotel Singapore"
+  ],
+  "restaurants": [
+    "Din Tai Fung",
+    "Jumbo Seafood",
+    "Lau Pa Sat"
+  ],
+  "amount_in_rupees": {
+    "Day1": "13000",
+    "Day2": "15000",
+    "Day3": "8000",
+    "Day4": "6000",
+    "Day5": "10000"
+  }
+},
+{
+  "id": 14,
+  "name": "Santorini, Greece",
+  "description": "Famous for its stunning sunsets, whitewashed buildings, and beautiful beaches.",
+  "image": "https://images.pexels.com/photos/3264723/pexels-photo-3264723.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Oia Village"],
+      "AfterNoon": ["Red Beach"],
+      "Evening": ["Dinner with Sunset View"]
+    },
+    "Day2": {
+      "Morning": ["Fira Town"],
+      "AfterNoon": ["Cable Car Ride"],
+      "Evening": ["Wine Tasting"]
+    },
+    "Day3": {
+      "Morning": ["Akrotiri Archaeological Site"],
+      "AfterNoon": ["Perissa Beach"],
+      "Evening": ["Dinner in Kamari"]
+    },
+    "Day4": {
+      "Morning": ["Black Beach"],
+      "AfterNoon": ["Boat Tour of Caldera"],
+      "Evening": ["Dinner in Firostefani"]
+    },
+    "Day5": {
+      "Morning": ["Ancient Thera"],
+      "AfterNoon": ["Lighthouse"],
+      "Evening": ["Dinner in Pyrgos"]
+    }
+  },
+  "hotels": [
+    "Canaves Oia Hotel",
+    "Katikies Hotel",
+    "Mystique, a Luxury Collection Hotel"
+  ],
+  "restaurants": [
+    "Ambrosia Restaurant",
+    "Kapari Wine Restaurant",
+    "1800- Fira"
+  ],
+  "amount_in_rupees": {
+    "Day1": "20000",
+    "Day2": "12000",
+    "Day3": "15000",
+    "Day4": "13000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 15,
+  "name": "Lisbon, Portugal",
+  "description": "Famous for its hilly landscape, historic neighborhoods, and vibrant culture.",
+  "image": "https://images.pexels.com/photos/28909811/pexels-photo-28909811/free-photo-of-colorful-tram-on-steep-street-in-lisbon-portugal.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Belém Tower"],
+      "AfterNoon": ["Jerónimos Monastery"],
+      "Evening": ["Dinner in Bairro Alto"]
+    },
+    "Day2": {
+      "Morning": ["Alfama District"],
+      "AfterNoon": ["São Jorge Castle"],
+      "Evening": ["Fado Music Experience"]
+    },
+    "Day3": {
+      "Morning": ["Lisbon Oceanarium"],
+      "AfterNoon": ["Vasco da Gama Bridge"],
+      "Evening": ["Dinner with River View"]
+    },
+    "Day4": {
+      "Morning": ["LX Factory"],
+      "AfterNoon": ["National Tile Museum"],
+      "Evening": ["Dinner in Chiado"]
+    },
+    "Day5": {
+      "Morning": ["Sintra Day Trip"],
+      "AfterNoon": ["Pena Palace"],
+      "Evening": ["Dinner in Cascais"]
+    }
+  },
+  "hotels": [
+    "Bairro Alto Hotel",
+    "Pestana Palace Lisboa",
+    "Four Seasons Hotel Ritz Lisbon"
+  ],
+  "restaurants": [
+    "Time Out Market",
+    "Taberna da Rua das Flores",
+    "Cervejaria Ramiro"
+  ],
+  "amount_in_rupees": {
+    "Day1": "9000",
+    "Day2": "10000",
+    "Day3": "8000",
+    "Day4": "7000",
+    "Day5": "12000"
+  }
+},
+{
+  "id": 16,
+  "name": "Reykjavik, Iceland",
+  "description": "Known for its stunning landscapes, geothermal activity, and vibrant nightlife.",
+  "image": "https://images.pexels.com/photos/13261241/pexels-photo-13261241.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Hallgrímskirkja"],
+      "AfterNoon": ["Harpa Concert Hall"],
+      "Evening": ["Dinner in Laugavegur"]
+    },
+    "Day2": {
+      "Morning": ["Golden Circle Tour"],
+      "AfterNoon": ["Geysir Geothermal Area"],
+      "Evening": ["Relax in Blue Lagoon"]
+    },
+    "Day3": {
+      "Morning": ["Whale Watching Tour"],
+      "AfterNoon": ["Visit to a Local Brewery"],
+      "Evening": ["Dinner at Grillmarkaðurinn"]
+    },
+    "Day4": {
+      "Morning": ["Visit to Þingvellir National Park"],
+      "AfterNoon": ["Explore Snæfellsnes Peninsula"],
+      "Evening": ["Northern Lights Tour"]
+    },
+    "Day5": {
+      "Morning": ["Explore Local Hot Springs"],
+      "AfterNoon": ["Visit to the National Museum of Iceland"],
+      "Evening": ["Dinner in a Local Farm"]
+    }
+  },
+  "hotels": [
+    "The Retreat at Blue Lagoon",
+    "Icelandair Hotel Reykjavik Marina",
+    "CenterHotel Midgardur"
+  ],
+  "restaurants": [
+    "Sægreifinn",
+    "Dill Restaurant",
+    "Kopar"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "20000",
+    "Day3": "15000",
+    "Day4": "18000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 17,
+  "name": "Hong Kong, China",
+  "description": "Known for its skyline, bustling harbor, and rich culture.",
+  "image": "https://images.pexels.com/photos/3158562/pexels-photo-3158562.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Victoria Peak"],
+      "AfterNoon": ["Star Ferry"],
+      "Evening": ["Dinner in Tsim Sha Tsui"]
+    },
+    "Day2": {
+      "Morning": ["Lantau Island"],
+      "AfterNoon": ["Tian Tan Buddha"],
+      "Evening": ["Dinner in Mong Kok"]
+    },
+    "Day3": {
+      "Morning": ["Hong Kong Disneyland"],
+      "AfterNoon": ["Ocean Park"],
+      "Evening": ["Dinner in Central"]
+    },
+    "Day4": {
+      "Morning": ["Visit to Wong Tai Sin Temple"],
+      "AfterNoon": ["Explore Local Markets"],
+      "Evening": ["Dinner at a Dim Sum Restaurant"]
+    },
+    "Day5": {
+      "Morning": ["Visit to Hong Kong Museum of History"],
+      "AfterNoon": ["Explore the Hong Kong Arts Festival"],
+      "Evening": ["Dinner at a Rooftop Bar"]
+    }
+  },
+  "hotels": [
+    "The Peninsula Hong Kong",
+    "Four Seasons Hotel Hong Kong",
+    "Mandarin Oriental"
+  ],
+  "restaurants": [
+    "Tim Ho Wan",
+    "Mott 32",
+    "L'Atelier de Joël Robuchon"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "18000",
+    "Day3": "15000",
+    "Day4": "12000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 18,
+  "name": "Amsterdam, Netherlands",
+  "description": "Known for its artistic heritage and elaborate canal system.",
+  "image": "https://images.pexels.com/photos/28983018/pexels-photo-28983018/free-photo-of-scenic-amsterdam-canal-with-historic-architecture.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Visit Rijksmuseum"],
+      "AfterNoon": ["Explore Van Gogh Museum"],
+      "Evening": ["Dinner at a Canal-side Restaurant"]
+    },
+    "Day2": {
+      "Morning": ["Visit Anne Frank House"],
+      "AfterNoon": ["Stroll through Jordaan District"],
+      "Evening": ["Dinner in De Pijp"]
+    },
+    "Day3": {
+      "Morning": ["Take a Canal Cruise"],
+      "AfterNoon": ["Visit Dam Square"],
+      "Evening": ["Dinner in a Local Cafe"]
+    },
+    "Day4": {
+      "Morning": ["Explore Vondelpark"],
+      "AfterNoon": ["Visit the Royal Palace"],
+      "Evening": ["Dinner at a Michelin-starred Restaurant"]
+    },
+    "Day5": {
+      "Morning": ["Visit to Zaanse Schans"],
+      "AfterNoon": ["Explore Local Markets"],
+      "Evening": ["Farewell Dinner in Amsterdam"]
+    }
+  },
+  "hotels": [
+    "The Dylan Amsterdam",
+    "Hotel Okura Amsterdam",
+    "Andaz Amsterdam Prinsengracht"
+  ],
+  "restaurants": [
+    "De Kas",
+    "Ciel Bleu",
+    "Restaurant Greetje"
+  ],
+  "amount_in_rupees": {
+    "Day1": "14000",
+    "Day2": "13000",
+    "Day3": "12000",
+    "Day4": "16000",
+    "Day5": "15000"
+  }
+},
+{
+  "id": 19,
+  "name": "Bali, Indonesia",
+  "description": "Known for its stunning beaches, vibrant culture, and scenic rice terraces, Bali is a top tourist destination for relaxation and adventure.",
+  "image": "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Tanah Lot Temple"],
+      "AfterNoon": ["Batu Bolong Beach"],
+      "Evening": ["Seminyak Beach"]
+    },
+    "Day2": {
+      "Morning": ["Tegallalang Rice Terraces"],
+      "AfterNoon": ["Ubud Monkey Forest"],
+      "Evening": ["Campuhan Ridge Walk"]
+    },
+    "Day3": {
+      "Morning": ["Mount Batur Sunrise Trek"],
+      "AfterNoon": ["Tirta Empul Temple"],
+      "Evening": ["Goa Gajah (Elephant Cave)"]
+    },
+    "Day4": {
+      "Morning": ["Ulun Danu Beratan Temple"],
+      "AfterNoon": ["Jatiluwih Rice Terraces"],
+      "Evening": ["Lovina Beach"]
+    },
+    "Day5": {
+      "Morning": ["Nusa Penida Day Trip"],
+      "AfterNoon": ["Crystal Bay"],
+      "Evening": ["Kelingking Beach"]
+    }
+  },
+  "hotels": [
+    "The St. Regis Bali Resort",
+    "Ayana Resort and Spa",
+    "Bvlgari Resort Bali"
+  ],
+  "restaurants": [
+    "Locavore",
+    "Sardine",
+    "Bebek Bengil (Dirty Duck Diner)"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "10000",
+    "Day3": "15000",
+    "Day4": "14000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 20,
+  "name": "Las Vegas, USA",
+  "description": "Famous for its vibrant nightlife, casinos, and world-class entertainment, Las Vegas is a top destination for fun and excitement.",
+  "image": "https://images.pexels.com/photos/2837909/pexels-photo-2837909.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["The Strip"],
+      "AfterNoon": ["Bellagio Fountains"],
+      "Evening": ["Fremont Street Experience"]
+    },
+    "Day2": {
+      "Morning": ["Hoover Dam"],
+      "AfterNoon": ["Lake Mead"],
+      "Evening": ["Cirque du Soleil Show"]
+    },
+    "Day3": {
+      "Morning": ["Red Rock Canyon"],
+      "AfterNoon": ["Shark Reef Aquarium"],
+      "Evening": ["High Roller Observation Wheel"]
+    },
+    "Day4": {
+      "Morning": ["Neon Museum"],
+      "AfterNoon": ["The Mob Museum"],
+      "Evening": ["Helicopter Tour of the Strip"]
+    },
+    "Day5": {
+      "Morning": ["Grand Canyon Day Trip"],
+      "AfterNoon": ["Valley of Fire State Park"],
+      "Evening": ["Dinner at a Michelin Star Restaurant"]
+    }
+  },
+  "hotels": [
+    "The Venetian",
+    "Bellagio Hotel and Casino",
+    "Wynn Las Vegas"
+  ],
+  "restaurants": [
+    "Joël Robuchon",
+    "Gordon Ramsay Steak",
+    "Mon Ami Gabi"
+  ],
+  "amount_in_rupees": {
+    "Day1": "18000",
+    "Day2": "15000",
+    "Day3": "17000",
+    "Day4": "16000",
+    "Day5": "20000"
+  }
+},
+{
+  "id": 21,
+  "name": "Cape Town, South Africa",
+  "description": "Known for its stunning natural beauty, Cape Town offers breathtaking views, iconic landmarks, and a rich cultural heritage.",
+  "image": "https://images.pexels.com/photos/6790337/pexels-photo-6790337.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Table Mountain"],
+      "AfterNoon": ["V&A Waterfront"],
+      "Evening": ["Camps Bay Beach"]
+    },
+    "Day2": {
+      "Morning": ["Robben Island"],
+      "AfterNoon": ["Bo-Kaap"],
+      "Evening": ["Signal Hill Sunset"]
+    },
+    "Day3": {
+      "Morning": ["Cape Point Nature Reserve"],
+      "AfterNoon": ["Boulders Beach (Penguins)"],
+      "Evening": ["Kalk Bay Harbour"]
+    },
+    "Day4": {
+      "Morning": ["Kirstenbosch National Botanical Garden"],
+      "AfterNoon": ["Groot Constantia Wine Estate"],
+      "Evening": ["Long Street Nightlife"]
+    },
+    "Day5": {
+      "Morning": ["Chapman's Peak Drive"],
+      "AfterNoon": ["Hout Bay"],
+      "Evening": ["Victoria & Alfred Mall"]
+    }
+  },
+  "hotels": [
+    "One&Only Cape Town",
+    "Belmond Mount Nelson Hotel",
+    "The Silo Hotel"
+  ],
+  "restaurants": [
+    "La Colombe",
+    "Test Kitchen",
+    "The Pot Luck Club"
+  ],
+  "amount_in_rupees": {
+    "Day1": "14000",
+    "Day2": "12000",
+    "Day3": "15000",
+    "Day4": "13000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 22,
+  "name": "Machu Picchu, Peru",
+  "description": "An ancient Incan city set high in the Andes Mountains, Machu Picchu is renowned for its archaeological significance and stunning views.",
+  "image": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Train to Aguas Calientes"],
+      "AfterNoon": ["Machu Picchu Guided Tour"],
+      "Evening": ["Explore Aguas Calientes Town"]
+    },
+    "Day2": {
+      "Morning": ["Huayna Picchu Hike"],
+      "AfterNoon": ["Visit the Temple of the Sun"],
+      "Evening": ["Sunset Views from the Sun Gate"]
+    },
+    "Day3": {
+      "Morning": ["Machu Picchu Archaeological Museum"],
+      "AfterNoon": ["Local Market in Aguas Calientes"],
+      "Evening": ["Dinner at a local restaurant"]
+    },
+    "Day4": {
+      "Morning": ["Visit Sacred Valley"],
+      "AfterNoon": ["Pisac Ruins"],
+      "Evening": ["Ollantaytambo Fortress"]
+    },
+    "Day5": {
+      "Morning": ["Return Train to Cusco"],
+      "AfterNoon": ["Explore Cusco City"],
+      "Evening": ["Dinner at a traditional Peruvian restaurant"]
+    }
+  },
+  "hotels": [
+    "Inkaterra Machu Picchu Pueblo Hotel",
+    "Belmond Sanctuary Lodge",
+    "El MaPi Hotel by Inkaterra"
+  ],
+  "restaurants": [
+    "The Tree House Restaurant",
+    "Indio Feliz",
+    "Café Inkaterra"
+  ],
+  "amount_in_rupees": {
+    "Day1": "14000",
+    "Day2": "16000",
+    "Day3": "12000",
+    "Day4": "15000",
+    "Day5": "13000"
+  }
+},
+{
+  "id": 23,
+  "name": "Petra, Jordan",
+  "description": "An archaeological wonder and UNESCO World Heritage Site, Petra is famous for its rock-cut architecture and water conduit system.",
+  "image": "https://images.pexels.com/photos/4388165/pexels-photo-4388165.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Entrance to Petra"],
+      "AfterNoon": ["The Treasury (Al-Khazneh)"],
+      "Evening": ["Petra by Night"]
+    },
+    "Day2": {
+      "Morning": ["The Monastery (Al-Deir)"],
+      "AfterNoon": ["Explore the Royal Tombs"],
+      "Evening": ["Dinner at a local restaurant"]
+    },
+    "Day3": {
+      "Morning": ["Hike to the High Place of Sacrifice"],
+      "AfterNoon": ["Visit the Petra Archaeological Museum"],
+      "Evening": ["Relax in Wadi Musa"]
+    },
+    "Day4": {
+      "Morning": ["Little Petra (Siq al-Barid)"],
+      "AfterNoon": ["Visit the Byzantine Church"],
+      "Evening": ["Enjoy local Jordanian cuisine"]
+    },
+    "Day5": {
+      "Morning": ["Visit the Petra Mountains"],
+      "AfterNoon": ["Explore the surrounding desert"],
+      "Evening": ["Dinner and cultural show"]
+    }
+  },
+  "hotels": [
+    "Movenpick Resort Petra",
+    "Petra Marriott Hotel",
+    "Candles Hotel"
+  ],
+  "restaurants": [
+    "Al Qantarah Restaurant",
+    "My Mom's Recipe",
+    "The Cave Bar"
+  ],
+  "amount_in_rupees": {
+    "Day1": "15000",
+    "Day2": "14000",
+    "Day3": "13000",
+    "Day4": "12000",
+    "Day5": "16000"
+  }
+},
+{
+  "id": 24,
+  "name": "Reykjavik, Iceland",
+  "description": "The capital and largest city of Iceland, Reykjavik is known for its modernist architecture, vibrant culture, and proximity to stunning natural landscapes.",
+  "image": "https://images.pexels.com/photos/27244378/pexels-photo-27244378/free-photo-of-blahylur-lake-on-iceland.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Hallgrímskirkja Church"],
+      "AfterNoon": ["Harpa Concert Hall"],
+      "Evening": ["Sun Voyager Sculpture"]
+    },
+    "Day2": {
+      "Morning": ["Visit the National Museum of Iceland"],
+      "AfterNoon": ["Explore Laugavegur Street"],
+      "Evening": ["Dinner at a local restaurant"]
+    },
+    "Day3": {
+      "Morning": ["Day trip to the Golden Circle"],
+      "AfterNoon": ["Geysir Geothermal Area"],
+      "Evening": ["Visit Gullfoss Waterfall"]
+    },
+    "Day4": {
+      "Morning": ["Relax at the Blue Lagoon"],
+      "AfterNoon": ["Visit Reykjanes Peninsula"],
+      "Evening": ["Explore the nightlife in Reykjavik"]
+    },
+    "Day5": {
+      "Morning": ["Whale watching tour"],
+      "AfterNoon": ["Visit the Perlan Museum"],
+      "Evening": ["Enjoy dinner with views of the Northern Lights"]
+    }
+  },
+  "hotels": [
+    "Hotel Borg",
+    "Kvosin Downtown Hotel",
+    "Canopy by Hilton Reykjavik City Centre"
+  ],
+  "restaurants": [
+    "Sjávargrillid",
+    "Fish Market",
+    "Dill Restaurant"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "13000",
+    "Day3": "18000",
+    "Day4": "15000",
+    "Day5": "17000"
+  }
+},
+{
+  "id": 25,
+  "name": "Queenstown, New Zealand",
+  "description": "Known as the adventure capital of the world, Queenstown offers stunning landscapes, outdoor activities, and vibrant nightlife.",
+  "image": "https://images.pexels.com/photos/16414761/pexels-photo-16414761/free-photo-of-can-t-stop-this-game.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Skyline Gondola"],
+      "AfterNoon": ["Luge Rides"],
+      "Evening": ["Dinner at Stratosfare Restaurant"]
+    },
+    "Day2": {
+      "Morning": ["Shotover Jet Boat Ride"],
+      "AfterNoon": ["Visit Arrowtown"],
+      "Evening": ["Explore Queenstown Gardens"]
+    },
+    "Day3": {
+      "Morning": ["Bungee Jumping at Kawarau Bridge"],
+      "AfterNoon": ["Wine Tasting in Gibbston Valley"],
+      "Evening": ["Nightlife in Queenstown"]
+    },
+    "Day4": {
+      "Morning": ["Day trip to Milford Sound"],
+      "AfterNoon": ["Cruise on Milford Sound"],
+      "Evening": ["Return to Queenstown"]
+    },
+    "Day5": {
+      "Morning": ["Hiking in Ben Lomond Track"],
+      "AfterNoon": ["Relax at Lake Wakatipu"],
+      "Evening": ["Dinner at The Cow Restaurant"]
+    }
+  },
+  "hotels": [
+    "The Rees Hotel",
+    "Millennium Hotel Queenstown",
+    "Crowne Plaza Queenstown"
+  ],
+  "restaurants": [
+    "Fergburger",
+    "Rata",
+    "Botswana Butchery"
+  ],
+  "amount_in_rupees": {
+    "Day1": "16000",
+    "Day2": "14000",
+    "Day3": "18000",
+    "Day4": "20000",
+    "Day5": "15000"
+  }
+},
+{
+  "id": 26,
+  "name": "Cancun, Mexico",
+  "description": "Known for its beautiful beaches, vibrant nightlife, and rich Mayan culture, Cancun is a popular destination for relaxation and adventure.",
+  "image": "https://images.pexels.com/photos/1802255/pexels-photo-1802255.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Playa Delfines"],
+      "AfterNoon": ["Snorkeling at Isla Mujeres"],
+      "Evening": ["Dinner at a Beachfront Restaurant"]
+    },
+    "Day2": {
+      "Morning": ["Visit Chichen Itza"],
+      "AfterNoon": ["Cenote Ik Kil"],
+      "Evening": ["Return to Cancun and explore nightlife"]
+    },
+    "Day3": {
+      "Morning": ["Tulum Ruins"],
+      "AfterNoon": ["Swim in Tulum Beaches"],
+      "Evening": ["Dinner at a Local Taqueria"]
+    },
+    "Day4": {
+      "Morning": ["Xcaret Park"],
+      "AfterNoon": ["Cultural shows at Xcaret"],
+      "Evening": ["Dinner and show at Xcaret"]
+    },
+    "Day5": {
+      "Morning": ["Explore Cancun's Hotel Zone"],
+      "AfterNoon": ["Shopping at La Isla Shopping Village"],
+      "Evening": ["Sunset cruise on Nichupté Lagoon"]
+    }
+  },
+  "hotels": [
+    "The Ritz-Carlton Cancun",
+    "JW Marriott Cancun Resort & Spa",
+    "Grand Fiesta Americana Coral Beach"
+  ],
+  "restaurants": [
+    "Harry's Prime Steakhouse & Raw Bar",
+    "La Habichuela",
+    "Porfirio's Cancun"
+  ],
+  "amount_in_rupees": {
+    "Day1": "15000",
+    "Day2": "18000",
+    "Day3": "16000",
+    "Day4": "20000",
+    "Day5": "14000"
+  }
+},
+{
+  "id": 27,
+  "name": "Maldives",
+  "description": "A tropical paradise known for its stunning white-sand beaches, crystal-clear waters, and luxurious resorts, the Maldives is perfect for relaxation and water sports.",
+  "image": "https://images.pexels.com/photos/1044978/pexels-photo-1044978.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Relax at Malé Atoll Beaches"],
+      "AfterNoon": ["Snorkeling at Banana Reef"],
+      "Evening": ["Dinner at a Beachfront Restaurant"]
+    },
+    "Day2": {
+      "Morning": ["Visit to Maafushi Island"],
+      "AfterNoon": ["Water sports activities (jet skiing, kayaking)"],
+      "Evening": ["Sunset dolphin cruise"]
+    },
+    "Day3": {
+      "Morning": ["Explore the capital city Malé"],
+      "AfterNoon": ["Visit the Maldives Islamic Centre"],
+      "Evening": ["Dinner at a local restaurant"]
+    },
+    "Day4": {
+      "Morning": ["Day trip to Hanifaru Bay"],
+      "AfterNoon": ["Snorkeling with manta rays"],
+      "Evening": ["Relax at the resort"]
+    },
+    "Day5": {
+      "Morning": ["Visit a private sandbank"],
+      "AfterNoon": ["Spa day at the resort"],
+      "Evening": ["Gala dinner on the beach"]
+    }
+  },
+  "hotels": [
+    "Soneva Fushi",
+    "Four Seasons Resort Maldives at Kuda Huraa",
+    "Anantara Veli Maldives Resort"
+  ],
+  "restaurants": [
+    "Ithaa Undersea Restaurant",
+    "Fresh in the Garden",
+    "Sea.Fire.Salt"
+  ],
+  "amount_in_rupees": {
+    "Day1": "20000",
+    "Day2": "15000",
+    "Day3": "12000",
+    "Day4": "25000",
+    "Day5": "30000"
+  }
+},
+{
+  "id": 28,
+  "name": "Yosemite National Park, California, USA",
+  "description": "Renowned for its stunning granite cliffs, waterfalls, and diverse natural beauty, Yosemite is a paradise for outdoor enthusiasts.",
+  "image": "https://images.pexels.com/photos/29014053/pexels-photo-29014053/free-photo-of-scenic-autumn-view-of-yosemite-national-park.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Yosemite Valley"],
+      "AfterNoon": ["Yosemite Falls"],
+      "Evening": ["Tunnel View"]
+    },
+    "Day2": {
+      "Morning": ["Glacier Point"],
+      "AfterNoon": ["Mariposa Grove of Giant Sequoias"],
+      "Evening": ["Sunset at El Capitan"]
+    },
+    "Day3": {
+      "Morning": ["Half Dome"],
+      "AfterNoon": ["Bridalveil Fall"],
+      "Evening": ["Dinner at Yosemite Lodge"]
+    },
+    "Day4": {
+      "Morning": ["Tioga Pass"],
+      "AfterNoon": ["Tenaya Lake"],
+      "Evening": ["Stargazing at Glacier Point"]
+    },
+    "Day5": {
+      "Morning": ["Mirror Lake"],
+      "AfterNoon": ["Ansel Adams Gallery"],
+      "Evening": ["Campfire at Wawona Campground"]
+    }
+  },
+  "hotels": [
+    "Tenaya Lodge at Yosemite",
+    "Yosemite Valley Lodge",
+    "Wawona Campground"
+  ],
+  "restaurants": [
+    "The Mountain Room Restaurant",
+    "Degnan's Kitchen",
+    "Yosemite Valley Lodge Dining Room"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "14000",
+    "Day3": "13000",
+    "Day4": "15000",
+    "Day5": "11000"
+  }
+},
+{
+  "id": 29,
+  "name": "Victoria Falls, Zambia/Zimbabwe",
+  "description": "One of the largest and most famous waterfalls in the world, Victoria Falls is a UNESCO World Heritage Site known for its stunning views and adventure activities.",
+  "image": "https://images.pexels.com/photos/5615519/pexels-photo-5615519.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Victoria Falls Rainforest"],
+      "AfterNoon": ["Helicopter Flight over the Falls"],
+      "Evening": ["Sunset Cruise on the Zambezi River"]
+    },
+    "Day2": {
+      "Morning": ["Livingstone Island"],
+      "AfterNoon": ["Victoria Falls Bridge"],
+      "Evening": ["Dinner at The Lookout Cafe"]
+    },
+    "Day3": {
+      "Morning": ["White Water Rafting"],
+      "AfterNoon": ["Bungee Jumping off Victoria Falls Bridge"],
+      "Evening": ["Cultural Dinner Experience"]
+    },
+    "Day4": {
+      "Morning": ["Chobe National Park Safari"],
+      "AfterNoon": ["Visit to the Local Markets"],
+      "Evening": ["Night Game Drive"]
+    },
+    "Day5": {
+      "Morning": ["Relaxation at the Hotel"],
+      "AfterNoon": ["Visit to the Victoria Falls Museum"],
+      "Evening": ["Dinner at a Local Restaurant"]
+    }
+  },
+  "hotels": [
+    "Royal Livingstone Hotel",
+    "Victoria Falls Hotel",
+    "The Zambezi Sun"
+  ],
+  "restaurants": [
+    "The Boma - Place of Eating",
+    "The Lookout Cafe",
+    "Cafe Zambezi"
+  ],
+  "amount_in_rupees": {
+    "Day1": "12000",
+    "Day2": "15000",
+    "Day3": "18000",
+    "Day4": "20000",
+    "Day5": "10000"
+  }
+},
+{
+  "id": 30,
+  "name": "Disneyland, Anaheim, USA",
+  "description": "Disneyland is a famous amusement park known for its magical experiences, thrilling rides, and iconic characters, offering fun for all ages.",
+  "image": "https://images.pexels.com/photos/16005384/pexels-photo-16005384/free-photo-of-ferris-wheel-in-disney-california-adventure.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "nearby_places": {
+    "Day1": {
+      "Morning": ["Disneyland Park"],
+      "AfterNoon": ["Disney California Adventure Park"],
+      "Evening": ["Downtown Disney District"]
+    },
+    "Day2": {
+      "Morning": ["Star Wars: Galaxy's Edge"],
+      "AfterNoon": ["Haunted Mansion"],
+      "Evening": ["World of Color Show"]
+    },
+    "Day3": {
+      "Morning": ["Matterhorn Bobsleds"],
+      "AfterNoon": ["Indiana Jones Adventure"],
+      "Evening": ["Character Dining Experience"]
+    },
+    "Day4": {
+      "Morning": ["Pixar Pier"],
+      "AfterNoon": ["Shopping at Downtown Disney"],
+      "Evening": ["Disneyland Fireworks Show"]
+    },
+    "Day5": {
+      "Morning": ["Exploring Fantasyland"],
+      "AfterNoon": ["Mickey's Toontown"],
+      "Evening": ["Dinner at a Disney-themed restaurant"]
+    }
+  },
+  "hotels": [
+    "Disneyland Hotel",
+    "Disney's Grand Californian Hotel & Spa",
+    "Disney's Paradise Pier Hotel"
+  ],
+  "restaurants": [
+    "Blue Bayou Restaurant",
+    "Café Orleans",
+    "Ghirardelli Soda Fountain and Chocolate Shop"
+  ],
+  "amount_in_rupees": {
+    "Day1": "15000",
+    "Day2": "12000",
+    "Day3": "16000",
+    "Day4": "14000",
+    "Day5": "13000"
+  }
+}
+
+
+  ]
+}
